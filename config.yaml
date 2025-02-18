@@ -35,5 +35,7 @@ keywords:
             "shapley",
             "data valuation",
             "influence function",
-            "mechanism interpretability"
+            "mechanism interpretability",
+            "sparse autoencoder",
+            "explanation"
         ]
