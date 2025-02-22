@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2025.02.21
+## Updated on 2025.02.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Safety
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-20**|**Red-Teaming LLM Multi-Agent Systems via Communication Attacks**|Pengfei He et.al.|[2502.14847](http://arxiv.org/abs/2502.14847)|null|
+|**2025-02-20**|**Probabilistic Robustness in Deep Learning: A Concise yet Comprehensive Guide**|Xingyu Zhao et.al.|[2502.14833](http://arxiv.org/abs/2502.14833)|null|
+|**2025-02-20**|**HiddenDetect: Detecting Jailbreak Attacks against Large Vision-Language Models via Monitoring Hidden States**|Yilei Jiang et.al.|[2502.14744](http://arxiv.org/abs/2502.14744)|null|
+|**2025-02-20**|**Instrumented mouthguards in elite sports: Validity and head acceleration event (HAE) incidence in NCAA American Football**|Mario Rotundo et.al.|[2502.14710](http://arxiv.org/abs/2502.14710)|null|
+|**2025-02-20**|**PEARL: Towards Permutation-Resilient LLMs**|Liang Chen et.al.|[2502.14628](http://arxiv.org/abs/2502.14628)|null|
+|**2025-02-20**|**A Stackelberg Game Approach for Signal Temporal Logic Control Synthesis with Uncontrollable Agents**|Bohan Cui et.al.|[2502.14585](http://arxiv.org/abs/2502.14585)|null|
+|**2025-02-20**|**Real-world Troublemaker: A Novel Track Testing Framework for Automated Driving Systems in Safety-critical Interaction Scenarios**|Xinrui Zhang et.al.|[2502.14574](http://arxiv.org/abs/2502.14574)|null|
+|**2025-02-20**|**FUIA: Model Inversion Attack against Federated Unlearning**|Lei Zhou et.al.|[2502.14558](http://arxiv.org/abs/2502.14558)|null|
+|**2025-02-20**|**CORBA: Contagious Recursive Blocking Attacks on Multi-Agent Systems Based on Large Language Models**|Zhenhong Zhou et.al.|[2502.14529](http://arxiv.org/abs/2502.14529)|null|
+|**2025-02-20**|**Statistical Scenario Modelling and Lookalike Distributions for Multi-Variate AI Risk**|Elija Perrier et.al.|[2502.14491](http://arxiv.org/abs/2502.14491)|null|
 |**2025-02-19**|**Why Safeguarded Ships Run Aground? Aligned Large Language Models' Safety Mechanisms Tend to Be Anchored in The Template Region**|Chak Tou Leong et.al.|[2502.13946](http://arxiv.org/abs/2502.13946)|null|
 |**2025-02-19**|**Learning to explore when mistakes are not allowed**|Charly Pecqueux-Guézénec et.al.|[2502.13801](http://arxiv.org/abs/2502.13801)|null|
 |**2025-02-19**|**Secure Federated Data Distillation**|Marco Arazzi et.al.|[2502.13728](http://arxiv.org/abs/2502.13728)|null|
@@ -44,6 +54,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-20**|**Interpretable Text Embeddings and Text Similarity Explanation: A Primer**|Juri Opitz et.al.|[2502.14862](http://arxiv.org/abs/2502.14862)|null|
+|**2025-02-20**|**Explanations of Deep Language Models Explain Language Representations in the Brain**|Maryam Rahimi et.al.|[2502.14671](http://arxiv.org/abs/2502.14671)|null|
+|**2025-02-20**|**Factor Graph-based Interpretable Neural Networks**|Yicong Li et.al.|[2502.14572](http://arxiv.org/abs/2502.14572)|null|
+|**2025-02-20**|**How does Radiation Reaction Affect Relativistic Magnetized Shocks Emission**|Yu Zhang et.al.|[2502.14550](http://arxiv.org/abs/2502.14550)|null|
+|**2025-02-20**|**The Thousand-Pulsar-Array programme on MeerKAT XVII: Discovery of beating radio emission variability in PSR J1514-4834**|J. A. Hsu et.al.|[2502.14481](http://arxiv.org/abs/2502.14481)|null|
+|**2025-02-20**|**Information Types in Product Reviews**|Ori Shapira et.al.|[2502.14335](http://arxiv.org/abs/2502.14335)|null|
+|**2025-02-20**|**Giant gravitons in D $p$ -brane holography**|Gauri Batra et.al.|[2502.14249](http://arxiv.org/abs/2502.14249)|null|
+|**2025-02-20**|**REFLEX Dataset: A Multimodal Dataset of Human Reactions to Robot Failures and Explanations**|Parag Khanna et.al.|[2502.14185](http://arxiv.org/abs/2502.14185)|null|
+|**2025-02-20**|**InstaSHAP: Interpretable Additive Models Explain Shapley Values Instantly**|James Enouen et.al.|[2502.14177](http://arxiv.org/abs/2502.14177)|null|
+|**2025-02-19**|**Self-Regularization with Latent Space Explanations for Controllable LLM-based Classification**|Xuansheng Wu et.al.|[2502.14133](http://arxiv.org/abs/2502.14133)|null|
 |**2025-02-19**|**SPEX: Scaling Feature Interaction Explanations for LLMs**|Justin Singh Kang et.al.|[2502.13870](http://arxiv.org/abs/2502.13870)|**[link](https://github.com/basics-lab/spectral-explain)**|
 |**2025-02-19**|**RobustX: Robust Counterfactual Explanations Made Easy**|Junqi Jiang et.al.|[2502.13751](http://arxiv.org/abs/2502.13751)|null|
 |**2025-02-19**|**$Ω_c$ baryon spectrum and strong decays in a constituent quark model**|Hui-Hua Zhong et.al.|[2502.13741](http://arxiv.org/abs/2502.13741)|null|
