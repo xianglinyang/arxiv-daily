@@ -1,4 +1,4 @@
-## Updated on 2025.02.22
+## Updated on 2025.02.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-24**|**The Geometry of Refusal in Large Language Models: Concept Cones and Representational Independence**|Tom Wollschläger et.al.|[2502.17420](http://arxiv.org/abs/2502.17420)|null|
+|**2025-02-24**|**Experimental validation of UAV search and detection system in real wilderness environment**|Stella Dumenčić et.al.|[2502.17372](http://arxiv.org/abs/2502.17372)|null|
+|**2025-02-24**|**Travel Time Reliability in Stochastic Kinematic Flow Models**|Alexander Hammerl et.al.|[2502.17359](http://arxiv.org/abs/2502.17359)|null|
+|**2025-02-24**|**Hybrid Human-Machine Perception via Adaptive LiDAR for Advanced Driver Assistance Systems**|Federico Scarì et.al.|[2502.17309](http://arxiv.org/abs/2502.17309)|null|
+|**2025-02-24**|**REINFORCE Adversarial Attacks on Large Language Models: An Adaptive, Distributional, and Semantic Objective**|Simon Geisler et.al.|[2502.17254](http://arxiv.org/abs/2502.17254)|null|
+|**2025-02-24**|**Thermoelectric and heavy quark transport coefficients of hot QCD matter in the presence of magnetic field**|Debarshi Dey et.al.|[2502.17158](http://arxiv.org/abs/2502.17158)|null|
+|**2025-02-24**|**Adversarial Training for Defense Against Label Poisoning Attacks**|Melis Ilayda Bal et.al.|[2502.17121](http://arxiv.org/abs/2502.17121)|**[link](https://github.com/melisilaydabal/floral)**|
+|**2025-02-24**|**PrivaCI-Bench: Evaluating Privacy with Contextual Integrity and Legal Compliance**|Haoran Li et.al.|[2502.17041](http://arxiv.org/abs/2502.17041)|null|
+|**2025-02-24**|**LongSafety: Evaluating Long-Context Safety of Large Language Models**|Yida Lu et.al.|[2502.16971](http://arxiv.org/abs/2502.16971)|**[link](https://github.com/thu-coai/longsafety)**|
+|**2025-02-24**|**GuidedBench: Equipping Jailbreak Evaluation with Guidelines**|Ruixuan Huang et.al.|[2502.16903](http://arxiv.org/abs/2502.16903)|null|
 |**2025-02-20**|**Red-Teaming LLM Multi-Agent Systems via Communication Attacks**|Pengfei He et.al.|[2502.14847](http://arxiv.org/abs/2502.14847)|null|
 |**2025-02-20**|**Probabilistic Robustness in Deep Learning: A Concise yet Comprehensive Guide**|Xingyu Zhao et.al.|[2502.14833](http://arxiv.org/abs/2502.14833)|null|
 |**2025-02-20**|**HiddenDetect: Detecting Jailbreak Attacks against Large Vision-Language Models via Monitoring Hidden States**|Yilei Jiang et.al.|[2502.14744](http://arxiv.org/abs/2502.14744)|null|
@@ -54,12 +64,22 @@
 |**2025-02-17**|**ReVeil: Unconstrained Concealed Backdoor Attack on Deep Neural Networks using Machine Unlearning**|Manaar Alam et.al.|[2502.11687](http://arxiv.org/abs/2502.11687)|null|
 |**2025-02-17**|**RIDE: Enhancing Large Language Model Alignment through Restyled In-Context Learning Demonstration Exemplars**|Yuncheng Hua et.al.|[2502.11681](http://arxiv.org/abs/2502.11681)|null|
 
-<p align=right>(<a href=#updated-on-20250222>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250226>back to top</a>)</p>
 
 ## Interpretability
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-24**|**Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs**|Jan Betley et.al.|[2502.17424](http://arxiv.org/abs/2502.17424)|**[link](https://github.com/emergent-misalignment/emergent-misalignment)**|
+|**2025-02-24**|**Travel Time Reliability in Stochastic Kinematic Flow Models**|Alexander Hammerl et.al.|[2502.17359](http://arxiv.org/abs/2502.17359)|null|
+|**2025-02-24**|**Order Matters: Investigate the Position Bias in Multi-constraint Instruction Following**|Jie Zeng et.al.|[2502.17204](http://arxiv.org/abs/2502.17204)|**[link](https://github.com/meowpass/pbif)**|
+|**2025-02-24**|**Understanding the Uncertainty of LLM Explanations: A Perspective Based on Reasoning Topology**|Longchao Da et.al.|[2502.17026](http://arxiv.org/abs/2502.17026)|null|
+|**2025-02-24**|**Towards Auto-Regressive Next-Token Prediction: In-Context Learning Emerges from Generalization**|Zixuan Gong et.al.|[2502.17024](http://arxiv.org/abs/2502.17024)|null|
+|**2025-02-24**|**Toward Agentic AI: Generative Information Retrieval Inspired Intelligent Communications and Networking**|Ruichen Zhang et.al.|[2502.16866](http://arxiv.org/abs/2502.16866)|null|
+|**2025-02-24**|**The Blessing of Reasoning: LLM-Based Contrastive Explanations in Black-Box Recommender Systems**|Yuyan Wang et.al.|[2502.16759](http://arxiv.org/abs/2502.16759)|null|
+|**2025-02-23**|**Layer-Wise Evolution of Representations in Fine-Tuned Transformers: Insights from Sparse AutoEncoders**|Suneel Nadipalli et.al.|[2502.16722](http://arxiv.org/abs/2502.16722)|null|
+|**2025-02-23**|**Beyond Pattern Recognition: Probing Mental Representations of LMs**|Moritz Miller et.al.|[2502.16717](http://arxiv.org/abs/2502.16717)|null|
+|**2025-02-23**|**Interpretable Retinal Disease Prediction Using Biology-Informed Heterogeneous Graph Representations**|Laurin Lux et.al.|[2502.16697](http://arxiv.org/abs/2502.16697)|null|
 |**2025-02-20**|**Interpretable Text Embeddings and Text Similarity Explanation: A Primer**|Juri Opitz et.al.|[2502.14862](http://arxiv.org/abs/2502.14862)|null|
 |**2025-02-20**|**Explanations of Deep Language Models Explain Language Representations in the Brain**|Maryam Rahimi et.al.|[2502.14671](http://arxiv.org/abs/2502.14671)|null|
 |**2025-02-20**|**Factor Graph-based Interpretable Neural Networks**|Yicong Li et.al.|[2502.14572](http://arxiv.org/abs/2502.14572)|null|
@@ -101,7 +121,7 @@
 |**2025-02-14**|**Mechanistic Unveiling of Transformer Circuits: Self-Influence as a Key to Model Reasoning**|Lin Zhang et.al.|[2502.09022](http://arxiv.org/abs/2502.09022)|null|
 |**2025-02-13**|**Integrated Optimization and Game Theory Framework for Fair Cost Allocation in Community Microgrids**|K. Victor Sam Moses Babu et.al.|[2502.08953](http://arxiv.org/abs/2502.08953)|null|
 
-<p align=right>(<a href=#updated-on-20250222>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250226>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
