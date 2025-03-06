@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2025.03.01
+## Updated on 2025.03.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Safety
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-04**|**Optimal Power Management for Large-Scale Battery Energy Storage Systems via Bayesian Inference**|Amir Farakhor et.al.|[2503.02866](http://arxiv.org/abs/2503.02866)|null|
+|**2025-03-04**|**FairSense-AI: Responsible AI Meets Sustainability**|Shaina Raza et.al.|[2503.02865](http://arxiv.org/abs/2503.02865)|null|
+|**2025-03-04**|**Multimodal AI predicts clinical outcomes of drug combinations from preclinical data**|Yepeng Huang et.al.|[2503.02781](http://arxiv.org/abs/2503.02781)|null|
+|**2025-03-04**|**Quantitative Resilience Modeling for Autonomous Cyber Defense**|Xavier Cadet et.al.|[2503.02780](http://arxiv.org/abs/2503.02780)|null|
+|**2025-03-04**|**Deep Learning-Enhanced Visual Monitoring in Hazardous Underwater Environments with a Swarm of Micro-Robots**|Shuang Chen et.al.|[2503.02752](http://arxiv.org/abs/2503.02752)|null|
+|**2025-03-04**|**Generative Modeling of Microweather Wind Velocities for Urban Air Mobility**|Tristan A. Shah et.al.|[2503.02690](http://arxiv.org/abs/2503.02690)|null|
+|**2025-03-04**|**State of play and future directions in industrial computer vision AI standards**|Artemis Stefanidou et.al.|[2503.02675](http://arxiv.org/abs/2503.02675)|null|
+|**2025-03-04**|**Human-aligned Safe Reinforcement Learning for Highway On-Ramp Merging in Dense Traffic**|Yang Li et.al.|[2503.02624](http://arxiv.org/abs/2503.02624)|null|
+|**2025-03-04**|**MM-OR: A Large Multimodal Operating Room Dataset for Semantic Understanding of High-Intensity Surgical Environments**|Ege Özsoy et.al.|[2503.02579](http://arxiv.org/abs/2503.02579)|null|
+|**2025-03-04**|**LLM-Safety Evaluations Lack Robustness**|Tim Beyer et.al.|[2503.02574](http://arxiv.org/abs/2503.02574)|null|
 |**2025-02-27**|**Why Are Web AI Agents More Vulnerable Than Standalone LLMs? A Security Analysis**|Jeffrey Yang Fan Chiang et.al.|[2502.20383](http://arxiv.org/abs/2502.20383)|null|
 |**2025-02-27**|**Trajectory-to-Action Pipeline (TAP): Automated Scenario Description Extraction for Autonomous Vehicle Behavior Comparison**|Aron Harder et.al.|[2502.20353](http://arxiv.org/abs/2502.20353)|null|
 |**2025-02-27**|**Safety Representations for Safer Policy Learning**|Kaustubh Mani et.al.|[2502.20341](http://arxiv.org/abs/2502.20341)|null|
@@ -74,6 +84,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-04**|**Steady-state dynamical mean field theory based on influence functional matrix product states**|Mithilesh Nayak et.al.|[2503.02848](http://arxiv.org/abs/2503.02848)|null|
+|**2025-03-04**|**Meson dynamics from locally exciting a particle-conserving $Z_2$ lattice gauge theory**|Vaibhav Sharma et.al.|[2503.02791](http://arxiv.org/abs/2503.02791)|null|
+|**2025-03-04**|**A Theory of Initialisation's Impact on Specialisation**|Devon Jarvis et.al.|[2503.02526](http://arxiv.org/abs/2503.02526)|null|
+|**2025-03-04**|**Late Time Cosmic Acceleration in Modified Gravity and Gauss-Bonnet Cosmology**|Santosh V. Lohakare et.al.|[2503.02467](http://arxiv.org/abs/2503.02467)|null|
+|**2025-03-04**|**Through the Static: Demystifying Malware Visualization via Explainability**|Matteo Brosolo et.al.|[2503.02441](http://arxiv.org/abs/2503.02441)|null|
+|**2025-03-04**|**Enhancing the Product Quality of the Injection Process Using eXplainable Artificial Intelligence**|Jisoo Hong et.al.|[2503.02338](http://arxiv.org/abs/2503.02338)|null|
+|**2025-03-04**|**AxBERT: An Interpretable Chinese Spelling Correction Method Driven by Associative Knowledge Network**|Fanyu Wang et.al.|[2503.02255](http://arxiv.org/abs/2503.02255)|null|
+|**2025-03-04**|**V2X-LLM: Enhancing V2X Integration and Understanding in Connected Vehicle Corridors**|Keshu Wu et.al.|[2503.02239](http://arxiv.org/abs/2503.02239)|null|
+|**2025-03-04**|**Women's Status and Fertility: A Novel Perspective on Low Fertility Issue**|Ruiwu Liu et.al.|[2503.02237](http://arxiv.org/abs/2503.02237)|null|
+|**2025-03-04**|**The large-scale structure supplies the formation of gas-star misaligned galaxies**|Min Bao et.al.|[2503.02219](http://arxiv.org/abs/2503.02219)|null|
 |**2025-02-27**|**Bridging the Creativity Understanding Gap: Small-Scale Human Alignment Enables Expert-Level Humor Ranking in LLMs**|Kuan Lok Zhou et.al.|[2502.20356](http://arxiv.org/abs/2502.20356)|null|
 |**2025-02-27**|**Interpreting AI for Fusion: an application to Plasma Profile Analysis for Tearing Mode Stability**|Hiro J Farre-Kaga et.al.|[2502.20294](http://arxiv.org/abs/2502.20294)|null|
 |**2025-02-27**|**Evaluating Human Trust in LLM-Based Planners: A Preliminary Study**|Shenghui Chen et.al.|[2502.20284](http://arxiv.org/abs/2502.20284)|null|
