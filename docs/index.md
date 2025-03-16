@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2025.03.11
+## Updated on 2025.03.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Safety
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-13**|**Siege: Autonomous Multi-Turn Jailbreaking of Large Language Models with Tree Search**|Andy Zhou et.al.|[2503.10619](http://arxiv.org/abs/2503.10619)|null|
+|**2025-03-13**|**OCCUQ: Exploring Efficient Uncertainty Quantification for 3D Occupancy Prediction**|Severin Heidrich et.al.|[2503.10605](http://arxiv.org/abs/2503.10605)|null|
+|**2025-03-13**|**Once bitten, twice shy: A modeling framework for incorporating heterogeneous mosquito biting into transmission models**|Kyle J. -M. Dahlin et.al.|[2503.10585](http://arxiv.org/abs/2503.10585)|null|
+|**2025-03-13**|**ASIDE: Architectural Separation of Instructions and Data in Language Models**|Egor Zverev et.al.|[2503.10566](http://arxiv.org/abs/2503.10566)|null|
+|**2025-03-13**|**Towards Safe Path Tracking Using the Simplex Architecture**|Georg Jäger et.al.|[2503.10559](http://arxiv.org/abs/2503.10559)|null|
+|**2025-03-13**|**Safety Filter for Limiting the Current of Grid-Forming Matrix Modular Multilevel Converters**|Michael Schneeberger et.al.|[2503.10498](http://arxiv.org/abs/2503.10498)|null|
+|**2025-03-13**|**Stratified Topological Autonomy for Long-Range Coordination (STALC)**|Cora A. Dimmig et.al.|[2503.10475](http://arxiv.org/abs/2503.10475)|null|
+|**2025-03-13**|**Applying Tabular Deep Learning Models to Estimate Crash Injury Types of Young Motorcyclists**|Shriyank Somvanshi et.al.|[2503.10474](http://arxiv.org/abs/2503.10474)|null|
+|**2025-03-13**|**Social Media Harm Abatement: Mechanisms for Transparent Public Health Assessment**|Nathaniel Lubin et.al.|[2503.10458](http://arxiv.org/abs/2503.10458)|null|
+|**2025-03-13**|**Finetuning Generative Trajectory Model with Reinforcement Learning from Human Feedback**|Derun Li et.al.|[2503.10434](http://arxiv.org/abs/2503.10434)|null|
 |**2025-03-07**|**dARt Vinci: Egocentric Data Collection for Surgical Robot Learning at Scale**|Yihao Liu et.al.|[2503.05646](http://arxiv.org/abs/2503.05646)|null|
 |**2025-03-07**|**Nuanced Safety for Generative AI: How Demographics Shape Responsiveness to Severity**|Pushkar Mishra et.al.|[2503.05609](http://arxiv.org/abs/2503.05609)|null|
 |**2025-03-07**|**Anti-Diffusion: Preventing Abuse of Modifications of Diffusion-Based Models**|Zheng Li et.al.|[2503.05595](http://arxiv.org/abs/2503.05595)|null|
@@ -94,6 +104,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-13**|**Learning Interpretable Logic Rules from Deep Vision Models**|Chuqin Geng et.al.|[2503.10547](http://arxiv.org/abs/2503.10547)|null|
+|**2025-03-13**|**Hoi2Anomaly: An Explainable Anomaly Detection Approach Guided by Human-Object Interaction**|Yuhan Wang et.al.|[2503.10508](http://arxiv.org/abs/2503.10508)|null|
+|**2025-03-13**|**Explainable Bayesian deep learning through input-skip Latent Binary Bayesian Neural Networks**|Eirik Høyheim et.al.|[2503.10496](http://arxiv.org/abs/2503.10496)|**[link](https://github.com/eirihoyh/ISLaB-LBBNN)**|
+|**2025-03-13**|**Explanation of the observed violation of isospin symmetry in relativistic nucleus-nucleus reactions**|Tom Reichert et.al.|[2503.10493](http://arxiv.org/abs/2503.10493)|null|
+|**2025-03-13**|**Transit Timing Variations of the Sub-Saturn Exoplanet HAT-P-12b**|Kaviya Parthasarathy et.al.|[2503.10441](http://arxiv.org/abs/2503.10441)|null|
+|**2025-03-13**|**The stochastic gravitational wave background from cosmic superstrings**|Anastasios Avgoustidis et.al.|[2503.10361](http://arxiv.org/abs/2503.10361)|null|
+|**2025-03-13**|**C3PO IV: co-natal stars depleted in refractories are magnetically more active -- possible imprints of planets**|Jie Yu et.al.|[2503.10339](http://arxiv.org/abs/2503.10339)|null|
+|**2025-03-13**|**Interpretable Image Classification via Non-parametric Part Prototype Learning**|Zhijie Zhu et.al.|[2503.10247](http://arxiv.org/abs/2503.10247)|null|
+|**2025-03-13**|**Analytical theory of the skewed wake effect**|A. N. Chuprina et.al.|[2503.10122](http://arxiv.org/abs/2503.10122)|null|
+|**2025-03-13**|**Detecting Dataset Bias in Medical AI: A Generalized and Modality-Agnostic Auditing Framework**|Nathan Drenkow et.al.|[2503.09969](http://arxiv.org/abs/2503.09969)|null|
 |**2025-03-07**|**A Survey on Sparse Autoencoders: Interpreting the Internal Mechanisms of Large Language Models**|Dong Shu et.al.|[2503.05613](http://arxiv.org/abs/2503.05613)|null|
 |**2025-03-07**|**Automatic Teaching Platform on Vision Language Retrieval Augmented Generation**|Ruslan Gokhman et.al.|[2503.05464](http://arxiv.org/abs/2503.05464)|null|
 |**2025-03-07**|**Towards Locally Explaining Prediction Behavior via Gradual Interventions and Measuring Property Gradients**|Niklas Penzel et.al.|[2503.05424](http://arxiv.org/abs/2503.05424)|null|
