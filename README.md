@@ -1,4 +1,4 @@
-## Updated on 2025.03.26
+## Updated on 2025.03.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-27**|**GateLens: A Reasoning-Enhanced LLM Agent for Automotive Software Release Analytics**|Arsham Gholamzadeh Khoee et.al.|[2503.21735](http://arxiv.org/abs/2503.21735)|null|
+|**2025-03-27**|**Prompt, Divide, and Conquer: Bypassing Large Language Model Safety Filters via Segmented and Distributed Prompt Processing**|Johan Wahréus et.al.|[2503.21598](http://arxiv.org/abs/2503.21598)|null|
+|**2025-03-27**|**Combining Artificial Users and Psychotherapist Assessment to Evaluate Large Language Model-based Mental Health Chatbots**|Florian Onur Kuhlmeier et.al.|[2503.21540](http://arxiv.org/abs/2503.21540)|null|
+|**2025-03-27**|**Bayesian Pseudo Posterior Mechanism for Differentially Private Machine Learning**|Robert Chew et.al.|[2503.21528](http://arxiv.org/abs/2503.21528)|null|
+|**2025-03-27**|**Behavioral response to mobile phone evacuation alerts**|Erick Elejalde et.al.|[2503.21497](http://arxiv.org/abs/2503.21497)|null|
+|**2025-03-27**|**Data-Driven Contact-Aware Control Method for Real-Time Deformable Tool Manipulation: A Case Study in the Environmental Swabbing**|Siavash Mahmoudi et.al.|[2503.21491](http://arxiv.org/abs/2503.21491)|null|
+|**2025-03-27**|**Exploring the Roles of Large Language Models in Reshaping Transportation Systems: A Survey, Framework, and Roadmap**|Tong Nie et.al.|[2503.21411](http://arxiv.org/abs/2503.21411)|null|
+|**2025-03-27**|**HybridoNet-Adapt: A Domain-Adapted Framework for Accurate Lithium-Ion Battery RUL Prediction**|Khoa Tran et.al.|[2503.21392](http://arxiv.org/abs/2503.21392)|null|
+|**2025-03-27**|**Safety of particle filters: Some first results on the time evolution of particle filter estimates**|Mathieu Gerber et.al.|[2503.21334](http://arxiv.org/abs/2503.21334)|null|
+|**2025-03-27**|**DeBackdoor: A Deductive Framework for Detecting Backdoor Attacks on Deep Models with Limited Data**|Dorde Popovic et.al.|[2503.21305](http://arxiv.org/abs/2503.21305)|null|
 |**2025-03-24**|**Trajectory Balance with Asynchrony: Decoupling Exploration and Learning for Fast, Scalable LLM Post-Training**|Brian R. Bartoldson et.al.|[2503.18929](http://arxiv.org/abs/2503.18929)|null|
 |**2025-03-24**|**Defeating Prompt Injections by Design**|Edoardo Debenedetti et.al.|[2503.18813](http://arxiv.org/abs/2503.18813)|null|
 |**2025-03-24**|**CRCL: Causal Representation Consistency Learning for Anomaly Detection in Surveillance Videos**|Yang Liu et.al.|[2503.18808](http://arxiv.org/abs/2503.18808)|null|
@@ -124,12 +134,22 @@
 |**2025-02-17**|**ReVeil: Unconstrained Concealed Backdoor Attack on Deep Neural Networks using Machine Unlearning**|Manaar Alam et.al.|[2502.11687](http://arxiv.org/abs/2502.11687)|null|
 |**2025-02-17**|**RIDE: Enhancing Large Language Model Alignment through Restyled In-Context Learning Demonstration Exemplars**|Yuncheng Hua et.al.|[2502.11681](http://arxiv.org/abs/2502.11681)|null|
 
-<p align=right>(<a href=#updated-on-20250326>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250331>back to top</a>)</p>
 
 ## Interpretability
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-27**|**Enhancing Repository-Level Software Repair via Repository-Aware Knowledge Graphs**|Boyang Yang et.al.|[2503.21710](http://arxiv.org/abs/2503.21710)|null|
+|**2025-03-27**|**Numerically efficient quasi-adiabatic propagator path integral approach with two independent non-commuting baths**|R. Ovcharenko et.al.|[2503.21693](http://arxiv.org/abs/2503.21693)|null|
+|**2025-03-27**|**Synchronization and chaos in complex ecological communities with delayed interactions**|Francesco Ferraro et.al.|[2503.21551](http://arxiv.org/abs/2503.21551)|null|
+|**2025-03-27**|**Explainable Boosting Machine for Predicting Claim Severity and Frequency in Car Insurance**|Markéta Krùpovà et.al.|[2503.21321](http://arxiv.org/abs/2503.21321)|null|
+|**2025-03-27**|**FakeReasoning: Towards Generalizable Forgery Detection and Reasoning**|Yueying Gao et.al.|[2503.21210](http://arxiv.org/abs/2503.21210)|null|
+|**2025-03-27**|**Leveraging Large Language Models for Risk Assessment in Hyperconnected Logistic Hub Network Deployment**|Yinzhu Quan et.al.|[2503.21115](http://arxiv.org/abs/2503.21115)|null|
+|**2025-03-28**|**Function Alignment: A New Theory of Mind and Intelligence, Part I: Foundations**|Gus G. Xia et.al.|[2503.21106](http://arxiv.org/abs/2503.21106)|null|
+|**2025-03-27**|**Rerouting Connection: Hybrid Computer Vision Analysis Reveals Visual Similarity Between Indus and Tibetan-Yi Corridor Writing Systems**|Ooha Lakkadi Reddy et.al.|[2503.21074](http://arxiv.org/abs/2503.21074)|**[link](https://github.com/oohalakkadi/ivc2tyc)**|
+|**2025-03-26**|**Operating Room Workflow Analysis via Reasoning Segmentation over Digital Twins**|Yiqing Shen et.al.|[2503.21054](http://arxiv.org/abs/2503.21054)|null|
+|**2025-03-26**|**Causal consistency requirements for gravity-induced entanglement in near-relativistic systems with internal energy**|Linda M. van Manen et.al.|[2503.20993](http://arxiv.org/abs/2503.20993)|null|
 |**2025-03-24**|**I Have Covered All the Bases Here: Interpreting Reasoning Features in Large Language Models via Sparse Autoencoders**|Andrey Galichin et.al.|[2503.18878](http://arxiv.org/abs/2503.18878)|null|
 |**2025-03-24**|**Beyond the first galaxies primordial black holes shine**|Antonio Matteri et.al.|[2503.18850](http://arxiv.org/abs/2503.18850)|null|
 |**2025-03-24**|**Understanding the Impact of Domain Term Explanation on Duplicate Bug Report Detection**|Usmi Mukherjee et.al.|[2503.18832](http://arxiv.org/abs/2503.18832)|null|
@@ -241,7 +261,7 @@
 |**2025-02-14**|**Mechanistic Unveiling of Transformer Circuits: Self-Influence as a Key to Model Reasoning**|Lin Zhang et.al.|[2502.09022](http://arxiv.org/abs/2502.09022)|null|
 |**2025-02-13**|**Integrated Optimization and Game Theory Framework for Fair Cost Allocation in Community Microgrids**|K. Victor Sam Moses Babu et.al.|[2502.08953](http://arxiv.org/abs/2502.08953)|null|
 
-<p align=right>(<a href=#updated-on-20250326>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250331>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
