@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2025.03.31
+## Updated on 2025.04.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Safety
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-28**|**Verifying Nonlinear Neural Feedback Systems using Polyhedral Enclosures**|Samuel I. Akinwande et.al.|[2503.22660](http://arxiv.org/abs/2503.22660)|null|
+|**2025-03-28**|**Finding Unknown Unknowns using Cyber-Physical System Simulators (Extended Report)**|Semaan Douglas Wehbe et.al.|[2503.22646](http://arxiv.org/abs/2503.22646)|null|
+|**2025-03-28**|**A Framework for Cryptographic Verifiability of End-to-End AI Pipelines**|Kar Balan et.al.|[2503.22573](http://arxiv.org/abs/2503.22573)|null|
+|**2025-03-28**|**CAMmary: A Review of Spacecraft Collision Avoidance Manoeuvre Design Methods**|Zeno Pavanello et.al.|[2503.22555](http://arxiv.org/abs/2503.22555)|null|
+|**2025-03-28**|**SafeCast: Risk-Responsive Motion Forecasting for Autonomous Vehicles**|Haicheng Liao et.al.|[2503.22541](http://arxiv.org/abs/2503.22541)|null|
+|**2025-03-28**|**Smart Sensing Breaks the Accuracy Barrier in Battery State Monitoring**|Xiaolei Bian et.al.|[2503.22408](http://arxiv.org/abs/2503.22408)|null|
+|**2025-03-28**|**A Dataset for Semantic Segmentation in the Presence of Unknowns**|Zakaria Laskar et.al.|[2503.22309](http://arxiv.org/abs/2503.22309)|null|
+|**2025-03-28**|**Landscape of Thoughts: Visualizing the Reasoning Process of Large Language Models**|Zhanke Zhou et.al.|[2503.22165](http://arxiv.org/abs/2503.22165)|**[link](https://github.com/tmlr-group/landscape-of-thoughts)**|
+|**2025-03-28**|**SoK: Security Analysis of Blockchain-based Cryptocurrency**|Zekai Liu et.al.|[2503.22156](http://arxiv.org/abs/2503.22156)|null|
+|**2025-03-28**|**Describing the Persistence Landscape for Introducing Microbes into Complex Communities**|Jason E. McDermott et.al.|[2503.22133](http://arxiv.org/abs/2503.22133)|null|
 |**2025-03-27**|**GateLens: A Reasoning-Enhanced LLM Agent for Automotive Software Release Analytics**|Arsham Gholamzadeh Khoee et.al.|[2503.21735](http://arxiv.org/abs/2503.21735)|null|
 |**2025-03-27**|**Prompt, Divide, and Conquer: Bypassing Large Language Model Safety Filters via Segmented and Distributed Prompt Processing**|Johan Wahréus et.al.|[2503.21598](http://arxiv.org/abs/2503.21598)|null|
 |**2025-03-27**|**Combining Artificial Users and Psychotherapist Assessment to Evaluate Large Language Model-based Mental Health Chatbots**|Florian Onur Kuhlmeier et.al.|[2503.21540](http://arxiv.org/abs/2503.21540)|null|
@@ -134,6 +144,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-28**|**The BLOBs: Enigmatic Diffuse Ionized Gas Structures in a Cluster of Galaxies near Cosmic Noon**|C. Maier et.al.|[2503.22628](http://arxiv.org/abs/2503.22628)|null|
+|**2025-03-28**|**To CPL, or not to CPL? What we have not learned about the dark energy equation of state**|Savvas Nesseris et.al.|[2503.22529](http://arxiv.org/abs/2503.22529)|null|
+|**2025-03-28**|**Cosmological Origin of the KM3-230213A event and associated Gravitational Waves**|Ki-Young Choi et.al.|[2503.22465](http://arxiv.org/abs/2503.22465)|null|
+|**2025-03-28**|**STADE: Standard Deviation as a Pruning Metric**|Diego Coello de Portugal Mecke et.al.|[2503.22451](http://arxiv.org/abs/2503.22451)|**[link](https://github.com/coello-dev/stade)**|
+|**2025-03-28**|**MASCOTS: Model-Agnostic Symbolic COunterfactual explanations for Time Series**|Dawid Płudowski et.al.|[2503.22389](http://arxiv.org/abs/2503.22389)|null|
+|**2025-03-28**|**Shapley Revisited: Tractable Responsibility Measures for Query Answers**|Meghyn Bienvenu et.al.|[2503.22358](http://arxiv.org/abs/2503.22358)|null|
+|**2025-03-28**|**Adding further pieces to the synchronization puzzle: QBO, bimodality, and phase jumps**|F. Stefani et.al.|[2503.22337](http://arxiv.org/abs/2503.22337)|null|
+|**2025-03-28**|**Blazar-Boosted Dark Matter: Novel Signatures via Elastic and Inelastic Scattering**|Jin-Wei Wang et.al.|[2503.22105](http://arxiv.org/abs/2503.22105)|null|
+|**2025-03-27**|**Hints of an Anomalous Lens Population towards the Galactic Bulge**|Scott E. Perkins et.al.|[2503.22037](http://arxiv.org/abs/2503.22037)|null|
+|**2025-03-27**|**Discussion of "Robust Distance Covariance" by S. Leyder, J. Raymaekers, and P.J. Rousseeuw**|Hallin Marc et.al.|[2503.22021](http://arxiv.org/abs/2503.22021)|null|
 |**2025-03-27**|**Enhancing Repository-Level Software Repair via Repository-Aware Knowledge Graphs**|Boyang Yang et.al.|[2503.21710](http://arxiv.org/abs/2503.21710)|null|
 |**2025-03-27**|**Numerically efficient quasi-adiabatic propagator path integral approach with two independent non-commuting baths**|R. Ovcharenko et.al.|[2503.21693](http://arxiv.org/abs/2503.21693)|null|
 |**2025-03-27**|**Synchronization and chaos in complex ecological communities with delayed interactions**|Francesco Ferraro et.al.|[2503.21551](http://arxiv.org/abs/2503.21551)|null|
