@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2025.04.06
+## Updated on 2025.04.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Safety
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-09**|**Sculpting Subspaces: Constrained Full Fine-Tuning in LLMs for Continual Learning**|Nikhil Shivakumar Nayak et.al.|[2504.07097](http://arxiv.org/abs/2504.07097)|null|
+|**2025-04-09**|**Evaluating Retrieval Augmented Generative Models for Document Queries in Transportation Safety**|Chad Melton et.al.|[2504.07022](http://arxiv.org/abs/2504.07022)|null|
+|**2025-04-09**|**Quantum Field Theory on Multifractal Spacetime: Varying Dimension and Ultraviolet Completeness**|Alessio Maiezza et.al.|[2504.06797](http://arxiv.org/abs/2504.06797)|null|
+|**2025-04-09**|**Beware of "Explanations" of AI**|David Martens et.al.|[2504.06791](http://arxiv.org/abs/2504.06791)|null|
+|**2025-04-09**|**Zero-Shot Image-Based Large Language Model Approach to Road Pavement Monitoring**|Shuoshuo Xu et.al.|[2504.06785](http://arxiv.org/abs/2504.06785)|null|
+|**2025-04-09**|**Dynamic Residual Safe Reinforcement Learning for Multi-Agent Safety-Critical Scenarios Decision-Making**|Kaifeng Wang et.al.|[2504.06670](http://arxiv.org/abs/2504.06670)|null|
+|**2025-04-09**|**Toward Holistic Evaluation of Recommender Systems Powered by Generative Models**|Yashar Deldjoo et.al.|[2504.06667](http://arxiv.org/abs/2504.06667)|null|
+|**2025-04-10**|**Uni-PrevPredMap: Extending PrevPredMap to a Unified Framework of Prior-Informed Modeling for Online Vectorized HD Map Construction**|Nan Peng et.al.|[2504.06647](http://arxiv.org/abs/2504.06647)|null|
+|**2025-04-09**|**Harmful information spreading and its impact on vaccination campaigns modeled through fractal-fractional operators**|Ali Akgül et.al.|[2504.06582](http://arxiv.org/abs/2504.06582)|null|
+|**2025-04-09**|**Bypassing Safety Guardrails in LLMs Using Humor**|Pedro Cisneros-Velarde et.al.|[2504.06577](http://arxiv.org/abs/2504.06577)|null|
 |**2025-04-03**|**GPT-ImgEval: A Comprehensive Benchmark for Diagnosing GPT4o in Image Generation**|Zhiyuan Yan et.al.|[2504.02782](http://arxiv.org/abs/2504.02782)|null|
 |**2025-04-03**|**Multi-Head Adaptive Graph Convolution Network for Sparse Point Cloud-Based Human Activity Recognition**|Vincent Gbouna Zakka et.al.|[2504.02778](http://arxiv.org/abs/2504.02778)|**[link](https://github.com/Gbouna/MAK-GCN)**|
 |**2025-04-03**|**RBR4DNN: Requirements-based Testing of Neural Networks**|Nusrat Jahan Mozumder et.al.|[2504.02737](http://arxiv.org/abs/2504.02737)|null|
@@ -154,6 +164,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-09**|**Generalized Semantic Contrastive Learning via Embedding Side Information for Few-Shot Object Detection**|Ruoyu Chen et.al.|[2504.07060](http://arxiv.org/abs/2504.07060)|null|
+|**2025-04-09**|**$Π$ -NeSy: A Possibilistic Neuro-Symbolic Approach**|Ismaïl Baaj et.al.|[2504.07055](http://arxiv.org/abs/2504.07055)|null|
+|**2025-04-09**|**Helioseismic inference of the solar radiative opacity**|Gaël Buldgen et.al.|[2504.06891](http://arxiv.org/abs/2504.06891)|null|
+|**2025-04-09**|**Beware of "Explanations" of AI**|David Martens et.al.|[2504.06791](http://arxiv.org/abs/2504.06791)|null|
+|**2025-04-09**|**Hyperparameter Optimisation with Practical Interpretability and Explanation Methods in Probabilistic Curriculum Learning**|Llewyn Salt et.al.|[2504.06683](http://arxiv.org/abs/2504.06683)|null|
+|**2025-04-09**|**Toward Holistic Evaluation of Recommender Systems Powered by Generative Models**|Yashar Deldjoo et.al.|[2504.06667](http://arxiv.org/abs/2504.06667)|null|
+|**2025-04-09**|**Right Prediction, Wrong Reasoning: Uncovering LLM Misalignment in RA Disease Diagnosis**|Umakanta Maharana et.al.|[2504.06581](http://arxiv.org/abs/2504.06581)|null|
+|**2025-04-08**|**European Strategy for Particle Physics Update -- PIONEER: a next generation rare pion decay experiment**|PIONEER Collaboration et.al.|[2504.06375](http://arxiv.org/abs/2504.06375)|null|
+|**2025-04-08**|**Restoring Feasibility in Power Grid Optimization: A Counterfactual ML Approach**|Mostafa Mohammadian et.al.|[2504.06369](http://arxiv.org/abs/2504.06369)|null|
+|**2025-04-08**|**The likelihood of not detecting cavity-carving companions in transition discs -- A statistical approach**|Enrico Ragusa et.al.|[2504.06337](http://arxiv.org/abs/2504.06337)|null|
 |**2025-04-03**|**Sparse Autoencoders Learn Monosemantic Features in Vision-Language Models**|Mateusz Pach et.al.|[2504.02821](http://arxiv.org/abs/2504.02821)|null|
 |**2025-04-03**|**Parity violation as enforced symmetry breaking in 3D fermionic topological order**|Shang-Qiang Ning et.al.|[2504.02736](http://arxiv.org/abs/2504.02736)|null|
 |**2025-04-03**|**STOOD-X methodology: using statistical nonparametric test for OOD Detection Large-Scale datasets enhanced with explainability**|Iván Sevillano-García et.al.|[2504.02685](http://arxiv.org/abs/2504.02685)|null|
