@@ -1,4 +1,4 @@
-## Updated on 2025.04.11
+## Updated on 2025.04.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-14**|**Decoupled Diffusion Sparks Adaptive Scene Generation**|Yunsong Zhou et.al.|[2504.10485](http://arxiv.org/abs/2504.10485)|null|
+|**2025-04-14**|**LLM Can be a Dangerous Persuader: Empirical Study of Persuasion Safety in Large Language Models**|Minqian Liu et.al.|[2504.10430](http://arxiv.org/abs/2504.10430)|null|
+|**2025-04-14**|**Ctrl-Z: Controlling AI Agents via Resampling**|Aryan Bhatt et.al.|[2504.10374](http://arxiv.org/abs/2504.10374)|null|
+|**2025-04-14**|**Reactive power flow optimization in AC drive systems**|Sanjay Chandrasekaran et.al.|[2504.10360](http://arxiv.org/abs/2504.10360)|null|
+|**2025-04-14**|**Improving diffusion modeling in all-solid-state lithium batteries: a novel approach for grain boundary effects**|Lena Scholz et.al.|[2504.10348](http://arxiv.org/abs/2504.10348)|null|
+|**2025-04-14**|**Cumulative-Time Signal Temporal Logic**|Hongkai Chen et.al.|[2504.10325](http://arxiv.org/abs/2504.10325)|null|
+|**2025-04-14**|**SlowFastVAD: Video Anomaly Detection via Integrating Simple Detector and RAG-Enhanced Vision-Language Model**|Zongcan Ding et.al.|[2504.10320](http://arxiv.org/abs/2504.10320)|null|
+|**2025-04-14**|**Shield Bash: Abusing Defensive Coherence State Retrieval to Break Timing Obfuscation**|Kartik Ramkrishnan et.al.|[2504.10318](http://arxiv.org/abs/2504.10318)|null|
+|**2025-04-14**|**Siamese Network with Dual Attention for EEG-Driven Social Learning: Bridging the Human-Robot Gap in Long-Tail Autonomous Driving**|Xiaoshan Zhou et.al.|[2504.10296](http://arxiv.org/abs/2504.10296)|null|
+|**2025-04-14**|**Gravity-induced emergence of the Fermi scale in quantum quadratic gravity**|Mohammad Mehrafarin et.al.|[2504.10293](http://arxiv.org/abs/2504.10293)|null|
 |**2025-04-09**|**Sculpting Subspaces: Constrained Full Fine-Tuning in LLMs for Continual Learning**|Nikhil Shivakumar Nayak et.al.|[2504.07097](http://arxiv.org/abs/2504.07097)|null|
 |**2025-04-09**|**Evaluating Retrieval Augmented Generative Models for Document Queries in Transportation Safety**|Chad Melton et.al.|[2504.07022](http://arxiv.org/abs/2504.07022)|null|
 |**2025-04-09**|**Quantum Field Theory on Multifractal Spacetime: Varying Dimension and Ultraviolet Completeness**|Alessio Maiezza et.al.|[2504.06797](http://arxiv.org/abs/2504.06797)|null|
@@ -164,12 +174,22 @@
 |**2025-02-17**|**ReVeil: Unconstrained Concealed Backdoor Attack on Deep Neural Networks using Machine Unlearning**|Manaar Alam et.al.|[2502.11687](http://arxiv.org/abs/2502.11687)|null|
 |**2025-02-17**|**RIDE: Enhancing Large Language Model Alignment through Restyled In-Context Learning Demonstration Exemplars**|Yuncheng Hua et.al.|[2502.11681](http://arxiv.org/abs/2502.11681)|null|
 
-<p align=right>(<a href=#updated-on-20250411>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250416>back to top</a>)</p>
 
 ## Interpretability
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-14**|**Independent connection in ACTion during inflation**|Alberto Salvio et.al.|[2504.10488](http://arxiv.org/abs/2504.10488)|null|
+|**2025-04-14**|**Bayesian Analysis of Interpretable Aging across Thousands of Lithium-ion Battery Cycles**|Marc D. Berliner et.al.|[2504.10439](http://arxiv.org/abs/2504.10439)|null|
+|**2025-04-14**|**Selectivity gain in olfactory receptor neuron at optimal odor concentration**|A. K. Vidybida et.al.|[2504.10401](http://arxiv.org/abs/2504.10401)|null|
+|**2025-04-14**|**Fact-Checking with Contextual Narratives: Leveraging Retrieval-Augmented LLMs for Social Media Analysis**|Arka Ujjal Dey et.al.|[2504.10166](http://arxiv.org/abs/2504.10166)|null|
+|**2025-04-14**|**Physical Scales Matter: The Role of Receptive Fields and Advection in Satellite-Based Thunderstorm Nowcasting with Convolutional Neural Networks**|Christoph Metzl et.al.|[2504.09994](http://arxiv.org/abs/2504.09994)|null|
+|**2025-04-14**|**The Universal Gap-to-Critical Temperature Ratio in Superconductors: a Statistical Mechanical Perspective**|Chung-Ru Lee et.al.|[2504.09880](http://arxiv.org/abs/2504.09880)|null|
+|**2025-04-14**|**GlyTwin: Digital Twin for Glucose Control in Type 1 Diabetes Through Optimal Behavioral Modifications Using Patient-Centric Counterfactuals**|Asiful Arefeen et.al.|[2504.09846](http://arxiv.org/abs/2504.09846)|null|
+|**2025-04-13**|**Adapting Robot's Explanation for Failures Based on Observed Human Behavior in Human-Robot Collaboration**|Andreas Naoum et.al.|[2504.09717](http://arxiv.org/abs/2504.09717)|null|
+|**2025-04-13**|**Understanding LLM Behaviors via Compression: Data Generation, Knowledge Acquisition and Scaling Laws**|Zhixuan Pan et.al.|[2504.09597](http://arxiv.org/abs/2504.09597)|null|
+|**2025-04-13**|**Vision Transformers Exhibit Human-Like Biases: Evidence of Orientation and Color Selectivity, Categorical Perception, and Phase Transitions**|Nooshin Bahador et.al.|[2504.09393](http://arxiv.org/abs/2504.09393)|null|
 |**2025-04-09**|**Generalized Semantic Contrastive Learning via Embedding Side Information for Few-Shot Object Detection**|Ruoyu Chen et.al.|[2504.07060](http://arxiv.org/abs/2504.07060)|null|
 |**2025-04-09**|**$Π$ -NeSy: A Possibilistic Neuro-Symbolic Approach**|Ismaïl Baaj et.al.|[2504.07055](http://arxiv.org/abs/2504.07055)|null|
 |**2025-04-09**|**Helioseismic inference of the solar radiative opacity**|Gaël Buldgen et.al.|[2504.06891](http://arxiv.org/abs/2504.06891)|null|
@@ -321,7 +341,7 @@
 |**2025-02-14**|**Mechanistic Unveiling of Transformer Circuits: Self-Influence as a Key to Model Reasoning**|Lin Zhang et.al.|[2502.09022](http://arxiv.org/abs/2502.09022)|null|
 |**2025-02-13**|**Integrated Optimization and Game Theory Framework for Fair Cost Allocation in Community Microgrids**|K. Victor Sam Moses Babu et.al.|[2502.08953](http://arxiv.org/abs/2502.08953)|null|
 
-<p align=right>(<a href=#updated-on-20250411>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250416>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
