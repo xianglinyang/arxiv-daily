@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2025.04.26
+## Updated on 2025.05.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Safety
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-29**|**AegisLLM: Scaling Agentic Systems for Self-Reflective Defense in LLM Security**|Zikui Cai et.al.|[2504.20965](http://arxiv.org/abs/2504.20965)|null|
+|**2025-04-29**|**A Domain-Agnostic Scalable AI Safety Ensuring Framework**|Beomjun Kim et.al.|[2504.20924](http://arxiv.org/abs/2504.20924)|null|
+|**2025-04-29**|**When Testing AI Tests Us: Safeguarding Mental Health on the Digital Frontlines**|Sachin R. Pendse et.al.|[2504.20910](http://arxiv.org/abs/2504.20910)|null|
+|**2025-04-29**|**GiBy: A Giant-Step Baby-Step Classifier For Anomaly Detection In Industrial Control Systems**|Sarad Venugopalan et.al.|[2504.20906](http://arxiv.org/abs/2504.20906)|null|
+|**2025-04-29**|**Mitigating the Structural Bias in Graph Adversarial Defenses**|Junyuan Fang et.al.|[2504.20848](http://arxiv.org/abs/2504.20848)|null|
+|**2025-04-29**|**GaussTrap: Stealthy Poisoning Attacks on 3D Gaussian Splatting for Targeted Scene Confusion**|Jiaxin Hong et.al.|[2504.20829](http://arxiv.org/abs/2504.20829)|null|
+|**2025-04-29**|**DP-SMOTE: Integrating Differential Privacy and Oversampling Technique to Preserve Privacy in Smart Homes**|Amr Tarek Elsayed et.al.|[2504.20827](http://arxiv.org/abs/2504.20827)|null|
+|**2025-04-29**|**Chain-of-Defensive-Thought: Structured Reasoning Elicits Robustness in Large Language Models against Reference Corruption**|Wenxiao Wang et.al.|[2504.20769](http://arxiv.org/abs/2504.20769)|null|
+|**2025-04-29**|**An Online Cross-layered Defense Strategy with Bandwidth Allocation for Multi-channel Systems under DoS Attacks**|Liheng Wan et.al.|[2504.20762](http://arxiv.org/abs/2504.20762)|null|
+|**2025-04-29**|**In defence of post-hoc explanations in medical AI**|Joshua Hatherley et.al.|[2504.20741](http://arxiv.org/abs/2504.20741)|null|
 |**2025-04-24**|**Integrating Learning-Based Manipulation and Physics-Based Locomotion for Whole-Body Badminton Robot Control**|Haochen Wang et.al.|[2504.17771](http://arxiv.org/abs/2504.17771)|null|
 |**2025-04-24**|**Conformal Segmentation in Industrial Surface Defect Detection with Statistical Guarantees**|Cheng Shen et.al.|[2504.17721](http://arxiv.org/abs/2504.17721)|null|
 |**2025-04-24**|**Safety in Large Reasoning Models: A Survey**|Cheng Wang et.al.|[2504.17704](http://arxiv.org/abs/2504.17704)|null|
@@ -194,6 +204,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-29**|**Towards Understanding the Nature of Attention with Low-Rank Sparse Decomposition**|Zhengfu He et.al.|[2504.20938](http://arxiv.org/abs/2504.20938)|null|
+|**2025-04-29**|**Relativistic ejecta from stellar mass black holes: insights from simulations and synthetic radio images**|Katie Savard et.al.|[2504.20914](http://arxiv.org/abs/2504.20914)|null|
+|**2025-04-29**|**Dual Explanations via Subgraph Matching for Malware Detection**|Hossein Shokouhinejad et.al.|[2504.20904](http://arxiv.org/abs/2504.20904)|null|
+|**2025-04-29**|**E. coli bacterium tumbling in bulk and close to surfaces: A simulation study**|Pierre Martin et.al.|[2504.20893](http://arxiv.org/abs/2504.20893)|null|
+|**2025-04-29**|**Disjunctive and Conjunctive Normal Form Explanations of Clusters Using Auxiliary Information**|Robert F. Downey et.al.|[2504.20846](http://arxiv.org/abs/2504.20846)|null|
+|**2025-04-29**|**RecGaze: The First Eye Tracking and User Interaction Dataset for Carousel Interfaces**|Santiago de Leon-Martinez et.al.|[2504.20792](http://arxiv.org/abs/2504.20792)|null|
+|**2025-04-29**|**In defence of post-hoc explanations in medical AI**|Joshua Hatherley et.al.|[2504.20741](http://arxiv.org/abs/2504.20741)|null|
+|**2025-04-29**|**The relative entropy of primes in arithmetic progressions is really small**|Alex Cowan et.al.|[2504.20691](http://arxiv.org/abs/2504.20691)|null|
+|**2025-04-29**|**What's Wrong with Your Synthetic Tabular Data? Using Explainable AI to Evaluate Generative Models**|Jan Kapar et.al.|[2504.20687](http://arxiv.org/abs/2504.20687)|null|
+|**2025-04-29**|**The Limits of AI Explainability: An Algorithmic Information Theory Approach**|Shrisha Rao et.al.|[2504.20676](http://arxiv.org/abs/2504.20676)|null|
 |**2025-04-24**|**On canonical differential equations for Calabi-Yau multi-scale Feynman integrals**|Sara Maggio et.al.|[2504.17757](http://arxiv.org/abs/2504.17757)|null|
 |**2025-04-24**|**Revisiting Reset Mechanisms in Spiking Neural Networks for Sequential Modeling: Specialized Discretization for Binary Activated RNN**|Enqi Zhang et.al.|[2504.17751](http://arxiv.org/abs/2504.17751)|null|
 |**2025-04-24**|**TarDiff: Target-Oriented Diffusion Guidance for Synthetic Electronic Health Record Time Series Generation**|Bowen Deng et.al.|[2504.17613](http://arxiv.org/abs/2504.17613)|null|
