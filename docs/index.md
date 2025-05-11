@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2025.05.06
+## Updated on 2025.05.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Safety
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-08**|**Reasoning Models Don't Always Say What They Think**|Yanda Chen et.al.|[2505.05410](http://arxiv.org/abs/2505.05410)|null|
+|**2025-05-08**|**PillarMamba: Learning Local-Global Context for Roadside Point Cloud via Hybrid State Space Model**|Zhang Zhang et.al.|[2505.05397](http://arxiv.org/abs/2505.05397)|null|
+|**2025-05-08**|**Robust Online Learning with Private Information**|Kyohei Okumura et.al.|[2505.05341](http://arxiv.org/abs/2505.05341)|null|
+|**2025-05-08**|**Advancing Neural Network Verification through Hierarchical Safety Abstract Interpretation**|Luca Marzari et.al.|[2505.05235](http://arxiv.org/abs/2505.05235)|null|
+|**2025-05-08**|**PaniCar: Securing the Perception of Advanced Driving Assistance Systems Against Emergency Vehicle Lighting**|Elad Feldman et.al.|[2505.05183](http://arxiv.org/abs/2505.05183)|null|
+|**2025-05-08**|**Duplex Self-Aligning Resonant Beam Communications and Power Transfer with Coupled Spatially Distributed Laser Resonator**|Mingliang Xiong et.al.|[2505.05107](http://arxiv.org/abs/2505.05107)|null|
+|**2025-05-08**|**DispBench: Benchmarking Disparity Estimation to Synthetic Corruptions**|Shashank Agnihotri et.al.|[2505.05091](http://arxiv.org/abs/2505.05091)|**[link](https://github.com/shashankskagnihotri/benchmarking_robustness)**|
+|**2025-05-08**|**Adaptive Contextual Embedding for Robust Far-View Borehole Detection**|Xuesong Liu et.al.|[2505.05008](http://arxiv.org/abs/2505.05008)|null|
+|**2025-05-08**|**A Vehicle System for Navigating Among Vulnerable Road Users Including Remote Operation**|Oscar de Groot et.al.|[2505.04982](http://arxiv.org/abs/2505.04982)|null|
+|**2025-05-08**|**LVLM-MPC Collaboration for Autonomous Driving: A Safety-Aware and Task-Scalable Control Architecture**|Kazuki Atsuta et.al.|[2505.04980](http://arxiv.org/abs/2505.04980)|null|
 |**2025-05-02**|**Neutrino mass generation in asymptotically safe gravity**|Gustavo P. de Brito et.al.|[2505.01422](http://arxiv.org/abs/2505.01422)|null|
 |**2025-05-02**|**Evaluating Frontier Models for Stealth and Situational Awareness**|Mary Phuong et.al.|[2505.01420](http://arxiv.org/abs/2505.01420)|null|
 |**2025-05-02**|**Constrained Network Adversarial Attacks: Validity, Robustness, and Transferability**|Anass Grini et.al.|[2505.01328](http://arxiv.org/abs/2505.01328)|null|
@@ -214,6 +224,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-08**|**Unveiling Language-Specific Features in Large Language Models via Sparse Autoencoders**|Boyi Deng et.al.|[2505.05111](http://arxiv.org/abs/2505.05111)|null|
+|**2025-05-08**|**Hybrid Personalization Using Declarative and Procedural Memory Modules of the Cognitive Architecture ACT-R**|Kevin Innerebner et.al.|[2505.05083](http://arxiv.org/abs/2505.05083)|null|
+|**2025-05-08**|**Spatially Mapping Phonon Drag in Ultrascaled 5-nm Silicon Nanowire Field-Effect Transistor Based on a Quantum Hydrodynamic Formalism**|Houssem Rezgui et.al.|[2505.05044](http://arxiv.org/abs/2505.05044)|null|
+|**2025-05-08**|**Scalable Multi-Stage Influence Function for Large Language Models via Eigenvalue-Corrected Kronecker-Factored Parameterization**|Yuntai Bao et.al.|[2505.05017](http://arxiv.org/abs/2505.05017)|**[link](https://github.com/colored-dye/multi_stage_influence_function)**|
+|**2025-05-08**|**The Pitfalls of Growing Group Complexity: LLMs and Social Choice-Based Aggregation for Group Recommendations**|Cedric Waterschoot et.al.|[2505.05016](http://arxiv.org/abs/2505.05016)|null|
+|**2025-05-07**|**Prediction via Shapley Value Regression**|Amr Alkhatib et.al.|[2505.04775](http://arxiv.org/abs/2505.04775)|null|
+|**2025-05-07**|**The Promise and Limits of LLMs in Constructing Proofs and Hints for Logic Problems in Intelligent Tutoring Systems**|Sutapa Dey Tithi et.al.|[2505.04736](http://arxiv.org/abs/2505.04736)|null|
+|**2025-05-07**|**QBD-RankedDataGen: Generating Custom Ranked Datasets for Improving Query-By-Document Search Using LLM-Reranking with Reduced Human Effort**|Sriram Gopalakrishnan et.al.|[2505.04732](http://arxiv.org/abs/2505.04732)|null|
+|**2025-05-07**|**Investigating the Impact and Student Perceptions of Guided Parsons Problems for Learning Logic with Subgoals**|Sutapa Dey Tithi et.al.|[2505.04712](http://arxiv.org/abs/2505.04712)|null|
+|**2025-05-07**|**A disturbance in the force. How force fluctuations hinder dynamical friction and induce core stalling**|Pierfrancesco Di Cintio et.al.|[2505.04505](http://arxiv.org/abs/2505.04505)|null|
 |**2025-05-02**|**Dirac Scoto Inverse-Seesaw from $A_4$ Flavor Symmetry**|Ranjeet Kumar et.al.|[2505.01407](http://arxiv.org/abs/2505.01407)|null|
 |**2025-05-02**|**Evaluating Explanations: An Explanatory Virtues Framework for Mechanistic Interpretability -- The Strange Science Part I.ii**|Kola Ayonrinde et.al.|[2505.01372](http://arxiv.org/abs/2505.01372)|null|
 |**2025-05-02**|**EvalxNLP: A Framework for Benchmarking Post-Hoc Explainability Methods on NLP Models**|Mahdi Dhaini et.al.|[2505.01238](http://arxiv.org/abs/2505.01238)|null|
