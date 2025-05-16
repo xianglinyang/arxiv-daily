@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2025.05.11
+## Updated on 2025.05.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Safety
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-14**|**Adversarial Suffix Filtering: a Defense Pipeline for LLMs**|David Khachaturov et.al.|[2505.09602](http://arxiv.org/abs/2505.09602)|null|
+|**2025-05-14**|**Tropical Fermat-Weber Points over Bergman Fans**|Shelby Cox et.al.|[2505.09584](http://arxiv.org/abs/2505.09584)|null|
+|**2025-05-14**|**Conformal Bounds on Full-Reference Image Quality for Imaging Inverse Problems**|Jeffrey Wen et.al.|[2505.09528](http://arxiv.org/abs/2505.09528)|**[link](https://github.com/jwen307/quality_uq)**|
+|**2025-05-15**|**SafePath: Conformal Prediction for Safe LLM-Based Autonomous Navigation**|Achref Doula et.al.|[2505.09427](http://arxiv.org/abs/2505.09427)|null|
+|**2025-05-14**|**DNS Query Forgery: A Client-Side Defense Against Mobile App Traffic Profiling**|Andrea Jimenez-Berenguel et.al.|[2505.09374](http://arxiv.org/abs/2505.09374)|null|
+|**2025-05-14**|**Coordinated Multi-Valve Disturbance-Rejection Pressure Control for High-Altitude Test Stands via Exterior Penalty Functions**|Zhang Louyue et.al.|[2505.09352](http://arxiv.org/abs/2505.09352)|null|
+|**2025-05-14**|**Safe Primal-Dual Optimization with a Single Smooth Constraint**|Ilnura Usmanova et.al.|[2505.09349](http://arxiv.org/abs/2505.09349)|null|
+|**2025-05-14**|**Evaluating the Robustness of Adversarial Defenses in Malware Detection Systems**|Mostafa Jafari et.al.|[2505.09342](http://arxiv.org/abs/2505.09342)|**[link](https://github.com/mostafa-ja/sigma-binary)**|
+|**2025-05-14**|**Access Controls Will Solve the Dual-Use Dilemma**|Evžen Wybitul et.al.|[2505.09341](http://arxiv.org/abs/2505.09341)|null|
+|**2025-05-14**|**Privacy-Preserving Runtime Verification**|Thomas A. Henzinger et.al.|[2505.09276](http://arxiv.org/abs/2505.09276)|null|
 |**2025-05-08**|**Reasoning Models Don't Always Say What They Think**|Yanda Chen et.al.|[2505.05410](http://arxiv.org/abs/2505.05410)|null|
 |**2025-05-08**|**PillarMamba: Learning Local-Global Context for Roadside Point Cloud via Hybrid State Space Model**|Zhang Zhang et.al.|[2505.05397](http://arxiv.org/abs/2505.05397)|null|
 |**2025-05-08**|**Robust Online Learning with Private Information**|Kyohei Okumura et.al.|[2505.05341](http://arxiv.org/abs/2505.05341)|null|
@@ -224,6 +234,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-14**|**Customizing a Large Language Model for VHDL Design of High-Performance Microprocessors**|Nicolas Dupuis et.al.|[2505.09610](http://arxiv.org/abs/2505.09610)|null|
+|**2025-05-14**|**Layered Unlearning for Adversarial Relearning**|Timothy Qian et.al.|[2505.09500](http://arxiv.org/abs/2505.09500)|**[link](https://github.com/12tqian/layered-unlearning)**|
+|**2025-05-14**|**Nonmonotonic diffusion in sheared active suspensions of squirmers**|Zhouyang Ge et.al.|[2505.09457](http://arxiv.org/abs/2505.09457)|null|
+|**2025-05-14**|**Enhanced Photonic Chip Design via Interpretable Machine Learning Techniques**|Lirandë Pira et.al.|[2505.09266](http://arxiv.org/abs/2505.09266)|null|
+|**2025-05-14**|**Remarkable universalities in distributions of dynamical observables in chaotic systems**|Lucianno Defaveri et.al.|[2505.09225](http://arxiv.org/abs/2505.09225)|null|
+|**2025-05-14**|**Towards Efficient Verification of Parallel Applications with Mc SimGrid**|Matthieu Laurent et.al.|[2505.09209](http://arxiv.org/abs/2505.09209)|null|
+|**2025-05-14**|**Display Content, Display Methods and Evaluation Methods of the HCI in Explainable Recommender Systems: A Survey**|Weiqing Li et.al.|[2505.09065](http://arxiv.org/abs/2505.09065)|null|
+|**2025-05-14**|**A Comprehensive Analysis of Large Language Model Outputs: Similarity, Diversity, and Bias**|Brandon Smith et.al.|[2505.09056](http://arxiv.org/abs/2505.09056)|null|
+|**2025-05-13**|**FareShare: A Tool for Labor Organizers to Estimate Lost Wages and Contest Arbitrary AI and Algorithmic Deactivations**|Varun Nagaraj Rao et.al.|[2505.08904](http://arxiv.org/abs/2505.08904)|null|
+|**2025-05-13**|**AC-Reason: Towards Theory-Guided Actual Causality Reasoning with Large Language Models**|Yanxi Zhang et.al.|[2505.08750](http://arxiv.org/abs/2505.08750)|null|
 |**2025-05-08**|**Unveiling Language-Specific Features in Large Language Models via Sparse Autoencoders**|Boyi Deng et.al.|[2505.05111](http://arxiv.org/abs/2505.05111)|null|
 |**2025-05-08**|**Hybrid Personalization Using Declarative and Procedural Memory Modules of the Cognitive Architecture ACT-R**|Kevin Innerebner et.al.|[2505.05083](http://arxiv.org/abs/2505.05083)|null|
 |**2025-05-08**|**Spatially Mapping Phonon Drag in Ultrascaled 5-nm Silicon Nanowire Field-Effect Transistor Based on a Quantum Hydrodynamic Formalism**|Houssem Rezgui et.al.|[2505.05044](http://arxiv.org/abs/2505.05044)|null|
