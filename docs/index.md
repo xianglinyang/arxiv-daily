@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2025.05.16
+## Updated on 2025.05.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Safety
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-19**|**DynaNoise: Dynamic Probabilistic Noise Injection for Defending Against Membership Inference Attacks**|Javad Forough et.al.|[2505.13362](http://arxiv.org/abs/2505.13362)|null|
+|**2025-05-19**|**Investigating the Vulnerability of LLM-as-a-Judge Architectures to Prompt-Injection Attacks**|Narek Maloyan et.al.|[2505.13348](http://arxiv.org/abs/2505.13348)|null|
+|**2025-05-19**|**GUARD: Generation-time LLM Unlearning via Adaptive Restriction and Detection**|Zhijie Deng et.al.|[2505.13312](http://arxiv.org/abs/2505.13312)|null|
+|**2025-05-19**|**I'll believe it when I see it: Images increase misinformation sharing in Vision-Language Models**|Alice Plebe et.al.|[2505.13302](http://arxiv.org/abs/2505.13302)|**[link](https://github.com/3lis/misinfo_vlm)**|
+|**2025-05-19**|**FlowPure: Continuous Normalizing Flows for Adversarial Purification**|Elias Collaert et.al.|[2505.13280](http://arxiv.org/abs/2505.13280)|**[link](https://github.com/distrinet/flowpure)**|
+|**2025-05-19**|**Adversarial Testing in LLMs: Insights into Decision-Making Vulnerabilities**|Lili Zhang et.al.|[2505.13195](http://arxiv.org/abs/2505.13195)|null|
+|**2025-05-19**|**Interpretable Robotic Friction Learning via Symbolic Regression**|Philipp Scholl et.al.|[2505.13186](http://arxiv.org/abs/2505.13186)|null|
+|**2025-05-19**|**Information Science Principles of Machine Learning: A Causal Chain Meta-Framework Based on Formalized Information Mapping**|Jianfeng Xu et.al.|[2505.13182](http://arxiv.org/abs/2505.13182)|null|
+|**2025-05-19**|**Constraint-Aware Diffusion Guidance for Robotics: Real-Time Obstacle Avoidance for Autonomous Racing**|Hao Ma et.al.|[2505.13131](http://arxiv.org/abs/2505.13131)|null|
+|**2025-05-19**|**The Hidden Dangers of Browsing AI Agents**|Mykyta Mudryi et.al.|[2505.13076](http://arxiv.org/abs/2505.13076)|null|
 |**2025-05-14**|**Adversarial Suffix Filtering: a Defense Pipeline for LLMs**|David Khachaturov et.al.|[2505.09602](http://arxiv.org/abs/2505.09602)|null|
 |**2025-05-14**|**Tropical Fermat-Weber Points over Bergman Fans**|Shelby Cox et.al.|[2505.09584](http://arxiv.org/abs/2505.09584)|null|
 |**2025-05-14**|**Conformal Bounds on Full-Reference Image Quality for Imaging Inverse Problems**|Jeffrey Wen et.al.|[2505.09528](http://arxiv.org/abs/2505.09528)|**[link](https://github.com/jwen307/quality_uq)**|
@@ -234,6 +244,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-19**|**How Adding Metacognitive Requirements in Support of AI Feedback in Practice Exams Transforms Student Learning Behaviors**|Mak Ahmad et.al.|[2505.13381](http://arxiv.org/abs/2505.13381)|null|
+|**2025-05-19**|**Computer Vision Models Show Human-Like Sensitivity to Geometric and Topological Concepts**|Zekun Wang et.al.|[2505.13281](http://arxiv.org/abs/2505.13281)|null|
+|**2025-05-19**|**Agentic Publications: An LLM-Driven Framework for Interactive Scientific Publishing, Supplementing Traditional Papers with AI-Powered Knowledge Systems**|Roberto Pugliese et.al.|[2505.13246](http://arxiv.org/abs/2505.13246)|null|
+|**2025-05-19**|**Implicit bias produces neural scaling laws in learning curves, from perceptrons to deep networks**|Francesco D'Amico et.al.|[2505.13230](http://arxiv.org/abs/2505.13230)|null|
+|**2025-05-19**|**Unveil Sources of Uncertainty: Feature Contribution to Conformal Prediction Intervals**|Marouane Il Idrissi et.al.|[2505.13118](http://arxiv.org/abs/2505.13118)|null|
+|**2025-05-19**|**Why Knowledge Distillation Works in Generative Models: A Minimal Working Explanation**|Sungmin Cha et.al.|[2505.13111](http://arxiv.org/abs/2505.13111)|null|
+|**2025-05-19**|**Verifying Quantum Memory in the Dynamics of Spin Boson Models**|Charlotte Bäcker et.al.|[2505.13067](http://arxiv.org/abs/2505.13067)|null|
+|**2025-05-19**|**SNAPE-PM: Building and Utilizing Dynamic Partner Models for Adaptive Explanation Generation**|Amelie S. Robrecht et.al.|[2505.13053](http://arxiv.org/abs/2505.13053)|null|
+|**2025-05-19**|**EPIC: Explanation of Pretrained Image Classification Networks via Prototype**|Piotr Borycki et.al.|[2505.12897](http://arxiv.org/abs/2505.12897)|**[link](https://github.com/piotr310100/epic)**|
+|**2025-05-19**|**EAVIT: Efficient and Accurate Human Value Identification from Text data via LLMs**|Wenhao Zhu et.al.|[2505.12792](http://arxiv.org/abs/2505.12792)|null|
 |**2025-05-14**|**Customizing a Large Language Model for VHDL Design of High-Performance Microprocessors**|Nicolas Dupuis et.al.|[2505.09610](http://arxiv.org/abs/2505.09610)|null|
 |**2025-05-14**|**Layered Unlearning for Adversarial Relearning**|Timothy Qian et.al.|[2505.09500](http://arxiv.org/abs/2505.09500)|**[link](https://github.com/12tqian/layered-unlearning)**|
 |**2025-05-14**|**Nonmonotonic diffusion in sheared active suspensions of squirmers**|Zhouyang Ge et.al.|[2505.09457](http://arxiv.org/abs/2505.09457)|null|
