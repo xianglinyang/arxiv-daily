@@ -1,4 +1,4 @@
-## Updated on 2025.05.21
+## Updated on 2025.05.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-22**|**Extremely Simple Multimodal Outlier Synthesis for Out-of-Distribution Detection and Segmentation**|Moru Liu et.al.|[2505.16985](http://arxiv.org/abs/2505.16985)|**[link](https://github.com/mona4399/featuremixing)**|
+|**2025-05-22**|**Invisible Prompts, Visible Threats: Malicious Font Injection in External Resources for Large Language Models**|Junjie Xiong et.al.|[2505.16957](http://arxiv.org/abs/2505.16957)|null|
+|**2025-05-22**|**MixAT: Combining Continuous and Discrete Adversarial Training for LLMs**|Csaba Dékány et.al.|[2505.16947](http://arxiv.org/abs/2505.16947)|null|
+|**2025-05-22**|**Backdoor Cleaning without External Guidance in MLLM Fine-tuning**|Xuankun Rong et.al.|[2505.16916](http://arxiv.org/abs/2505.16916)|**[link](https://github.com/xuankunrong/bye)**|
+|**2025-05-22**|**RealEngine: Simulating Autonomous Driving in Realistic Context**|Junzhe Jiang et.al.|[2505.16902](http://arxiv.org/abs/2505.16902)|**[link](https://github.com/fudan-zvg/realengine)**|
+|**2025-05-22**|**CAIN: Hijacking LLM-Humans Conversations via a Two-Stage Malicious System Prompt Generation and Refining Framework**|Viet Pham et.al.|[2505.16888](http://arxiv.org/abs/2505.16888)|null|
+|**2025-05-22**|**MPO: Multilingual Safety Alignment via Reward Gap Optimization**|Weixiang Zhao et.al.|[2505.16869](http://arxiv.org/abs/2505.16869)|**[link](https://github.com/circle-hit/mpo)**|
+|**2025-05-22**|**Understanding and Analyzing Inappropriately Targeting Language in Online Discourse: A Comparative Annotation Study**|Baran Barbarestani et.al.|[2505.16847](http://arxiv.org/abs/2505.16847)|null|
+|**2025-05-22**|**Accidental Misalignment: Fine-Tuning Language Models Induces Unexpected Vulnerability**|Punya Syon Pandey et.al.|[2505.16789](http://arxiv.org/abs/2505.16789)|**[link](https://github.com/psyonp/accidental_misalignment)**|
+|**2025-05-22**|**When Safety Detectors Aren't Enough: A Stealthy and Effective Jailbreak Attack on LLMs via Steganographic Techniques**|Jianing Geng et.al.|[2505.16765](http://arxiv.org/abs/2505.16765)|null|
 |**2025-05-19**|**DynaNoise: Dynamic Probabilistic Noise Injection for Defending Against Membership Inference Attacks**|Javad Forough et.al.|[2505.13362](http://arxiv.org/abs/2505.13362)|null|
 |**2025-05-19**|**Investigating the Vulnerability of LLM-as-a-Judge Architectures to Prompt-Injection Attacks**|Narek Maloyan et.al.|[2505.13348](http://arxiv.org/abs/2505.13348)|null|
 |**2025-05-19**|**GUARD: Generation-time LLM Unlearning via Adaptive Restriction and Detection**|Zhijie Deng et.al.|[2505.13312](http://arxiv.org/abs/2505.13312)|null|
@@ -244,12 +254,22 @@
 |**2025-02-17**|**ReVeil: Unconstrained Concealed Backdoor Attack on Deep Neural Networks using Machine Unlearning**|Manaar Alam et.al.|[2502.11687](http://arxiv.org/abs/2502.11687)|null|
 |**2025-02-17**|**RIDE: Enhancing Large Language Model Alignment through Restyled In-Context Learning Demonstration Exemplars**|Yuncheng Hua et.al.|[2502.11681](http://arxiv.org/abs/2502.11681)|null|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250526>back to top</a>)</p>
 
 ## Interpretability
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-22**|**Scalable and Interpretable Contextual Bandits: A Literature Review and Retail Offer Prototype**|Nikola Tankovic et.al.|[2505.16918](http://arxiv.org/abs/2505.16918)|null|
+|**2025-05-22**|**From EduVisBench to EduVisAgent: A Benchmark and Multi-Agent Framework for Pedagogical Visualization**|Haonian Ji et.al.|[2505.16832](http://arxiv.org/abs/2505.16832)|**[link](https://github.com/aiming-lab/eduvisbench)**|
+|**2025-05-22**|**Many-faced Painlevé I: irregular conformal blocks, topological recursion, and holomorphic anomaly approaches**|Nikolai Iorgov et.al.|[2505.16803](http://arxiv.org/abs/2505.16803)|null|
+|**2025-05-22**|**On the Out-of-Distribution Generalization of Self-Supervised Learning**|Wenwen Qiang et.al.|[2505.16675](http://arxiv.org/abs/2505.16675)|null|
+|**2025-05-22**|**Steering Large Language Models for Machine Translation Personalization**|Daniel Scalena et.al.|[2505.16612](http://arxiv.org/abs/2505.16612)|**[link](https://github.com/danielsc4/steering-for-personalization)**|
+|**2025-05-22**|**Training on Plausible Counterfactuals Removes Spurious Correlations**|Shpresim Sadiku et.al.|[2505.16583](http://arxiv.org/abs/2505.16583)|null|
+|**2025-05-22**|**Computing Exact Shapley Values in Polynomial Time for Product-Kernel Methods**|Majid Mohammadi et.al.|[2505.16516](http://arxiv.org/abs/2505.16516)|null|
+|**2025-05-22**|**Interpretable Anomaly Detection in Encrypted Traffic Using SHAP with Machine Learning Models**|Kalindi Singh et.al.|[2505.16261](http://arxiv.org/abs/2505.16261)|null|
+|**2025-05-22**|**Small-to-Large Generalization: Data Influences Models Consistently Across Scale**|Alaa Khaddaj et.al.|[2505.16260](http://arxiv.org/abs/2505.16260)|null|
+|**2025-05-22**|**Explain Less, Understand More: Jargon Detection via Personalized Parameter-Efficient Fine-tuning**|Bohao Wu et.al.|[2505.16227](http://arxiv.org/abs/2505.16227)|null|
 |**2025-05-19**|**How Adding Metacognitive Requirements in Support of AI Feedback in Practice Exams Transforms Student Learning Behaviors**|Mak Ahmad et.al.|[2505.13381](http://arxiv.org/abs/2505.13381)|null|
 |**2025-05-19**|**Computer Vision Models Show Human-Like Sensitivity to Geometric and Topological Concepts**|Zekun Wang et.al.|[2505.13281](http://arxiv.org/abs/2505.13281)|null|
 |**2025-05-19**|**Agentic Publications: An LLM-Driven Framework for Interactive Scientific Publishing, Supplementing Traditional Papers with AI-Powered Knowledge Systems**|Roberto Pugliese et.al.|[2505.13246](http://arxiv.org/abs/2505.13246)|null|
@@ -481,7 +501,7 @@
 |**2025-02-14**|**Mechanistic Unveiling of Transformer Circuits: Self-Influence as a Key to Model Reasoning**|Lin Zhang et.al.|[2502.09022](http://arxiv.org/abs/2502.09022)|null|
 |**2025-02-13**|**Integrated Optimization and Game Theory Framework for Fair Cost Allocation in Community Microgrids**|K. Victor Sam Moses Babu et.al.|[2502.08953](http://arxiv.org/abs/2502.08953)|null|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250526>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
