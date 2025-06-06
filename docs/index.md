@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2025.06.01
+## Updated on 2025.06.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Safety
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-04**|**Pseudo-Simulation for Autonomous Driving**|Wei Cao et.al.|[2506.04218](http://arxiv.org/abs/2506.04218)|null|
+|**2025-06-04**|**SLAC: Simulation-Pretrained Latent Action Space for Whole-Body Real-World RL**|Jiaheng Hu et.al.|[2506.04147](http://arxiv.org/abs/2506.04147)|null|
+|**2025-06-05**|**macOSWorld: A Multilingual Interactive Benchmark for GUI Agents**|Pei Yang et.al.|[2506.04135](http://arxiv.org/abs/2506.04135)|null|
+|**2025-06-04**|**TRiSM for Agentic AI: A Review of Trust, Risk, and Security Management in LLM-based Agentic Multi-Agent Systems**|Shaina Raza et.al.|[2506.04133](http://arxiv.org/abs/2506.04133)|null|
+|**2025-06-04**|**Contour Errors: An Ego-Centric Metric for Reliable 3D Multi-Object Tracking**|Sharang Kaul et.al.|[2506.04122](http://arxiv.org/abs/2506.04122)|null|
+|**2025-06-04**|**AmbiK: Dataset of Ambiguous Tasks in Kitchen Environment**|Anastasiia Ivanova et.al.|[2506.04089](http://arxiv.org/abs/2506.04089)|null|
+|**2025-06-04**|**Think Like a Person Before Responding: A Multi-Faceted Evaluation of Persona-Guided LLMs for Countering Hate**|Mikel K. Ngueajio et.al.|[2506.04043](http://arxiv.org/abs/2506.04043)|null|
+|**2025-06-04**|**Generating Automotive Code: Large Language Models for Software Development and Verification in Safety-Critical Systems**|Sven Kirchner et.al.|[2506.04038](http://arxiv.org/abs/2506.04038)|null|
+|**2025-06-04**|**Privacy and Security Threat for OpenAI GPTs**|Wei Wenying et.al.|[2506.04036](http://arxiv.org/abs/2506.04036)|null|
+|**2025-06-04**|**DiffCAP: Diffusion-based Cumulative Adversarial Purification for Vision Language Models**|Jia Fu et.al.|[2506.03933](http://arxiv.org/abs/2506.03933)|null|
 |**2025-05-29**|**To Trust Or Not To Trust Your Vision-Language Model's Prediction**|Hao Dong et.al.|[2505.23745](http://arxiv.org/abs/2505.23745)|null|
 |**2025-05-29**|**Exposing the Impact of GenAI for Cybercrime: An Investigation into the Dark Side**|Truong et.al.|[2505.23733](http://arxiv.org/abs/2505.23733)|null|
 |**2025-05-29**|**SC-LoRA: Balancing Efficient Fine-tuning and Knowledge Preservation via Subspace-Constrained LoRA**|Minrui Luo et.al.|[2505.23724](http://arxiv.org/abs/2505.23724)|null|
@@ -264,6 +274,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-04**|**TracLLM: A Generic Framework for Attributing Long Context LLMs**|Yanting Wang et.al.|[2506.04202](http://arxiv.org/abs/2506.04202)|null|
+|**2025-06-04**|**Person Re-Identification System at Semantic Level based on Pedestrian Attributes Ontology**|Ngoc Q. Ly et.al.|[2506.04143](http://arxiv.org/abs/2506.04143)|null|
+|**2025-06-04**|**Crowd-SFT: Crowdsourcing for LLM Alignment**|Alex Sotiropoulos et.al.|[2506.04063](http://arxiv.org/abs/2506.04063)|null|
+|**2025-06-04**|**Towards generating more interpretable counterfactuals via concept vectors: a preliminary study on chest X-rays**|Bulat Maksudov et.al.|[2506.04058](http://arxiv.org/abs/2506.04058)|null|
+|**2025-06-04**|**WANDER: An Explainable Decision-Support Framework for HPC**|Ankur Lahiry et.al.|[2506.04049](http://arxiv.org/abs/2506.04049)|null|
+|**2025-06-04**|**On the Usage of Gaussian Process for Efficient Data Valuation**|Clément Bénesse et.al.|[2506.04026](http://arxiv.org/abs/2506.04026)|null|
+|**2025-06-04**|**A Tale of Two Shocks**|Robert F. Wimmer-Schweingruber et.al.|[2506.03958](http://arxiv.org/abs/2506.03958)|null|
+|**2025-06-04**|**Causal Explanations Over Time: Articulated Reasoning for Interactive Environments**|Sebastian Rödling et.al.|[2506.03915](http://arxiv.org/abs/2506.03915)|null|
+|**2025-06-04**|**On the Closed-Form of Flow Matching: Generalization Does Not Arise from Target Stochasticity**|Quentin Bertrand et.al.|[2506.03719](http://arxiv.org/abs/2506.03719)|null|
+|**2025-06-04**|**Intersectional Bias in Pre-Trained Image Recognition Models**|Valerie Krug et.al.|[2506.03664](http://arxiv.org/abs/2506.03664)|null|
 |**2025-05-29**|**DiCoFlex: Model-agnostic diverse counterfactuals with flexible control**|Oleksii Furman et.al.|[2505.23700](http://arxiv.org/abs/2505.23700)|null|
 |**2025-05-29**|**How to Elicit Explainability Requirements? A Comparison of Interviews, Focus Groups, and Surveys**|Martin Obaidi et.al.|[2505.23684](http://arxiv.org/abs/2505.23684)|null|
 |**2025-05-29**|**Understanding Mode Connectivity via Parameter Space Symmetry**|Bo Zhao et.al.|[2505.23681](http://arxiv.org/abs/2505.23681)|null|
