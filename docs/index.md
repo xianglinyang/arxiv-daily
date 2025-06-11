@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2025.06.06
+## Updated on 2025.06.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Safety
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-09**|**TokenBreak: Bypassing Text Classification Models Through Token Manipulation**|Kasimir Schulz et.al.|[2506.07948](http://arxiv.org/abs/2506.07948)|null|
+|**2025-06-09**|**Secure Distributed Learning for CAVs: Defending Against Gradient Leakage with Leveled Homomorphic Encryption**|Muhammad Ali Najjar et.al.|[2506.07894](http://arxiv.org/abs/2506.07894)|null|
+|**2025-06-09**|**CrosswalkNet: An Optimized Deep Learning Framework for Pedestrian Crosswalk Detection in Aerial Images with High-Performance Computing**|Zubin Bhuyan et.al.|[2506.07885](http://arxiv.org/abs/2506.07885)|null|
+|**2025-06-09**|**R3D2: Realistic 3D Asset Insertion via Diffusion for Autonomous Driving Simulation**|William Ljungbergh et.al.|[2506.07826](http://arxiv.org/abs/2506.07826)|null|
+|**2025-06-09**|**Enhancing Adversarial Robustness with Conformal Prediction: A Framework for Guaranteed Model Reliability**|Jie Bao et.al.|[2506.07804](http://arxiv.org/abs/2506.07804)|null|
+|**2025-06-09**|**Deep Equivariant Multi-Agent Control Barrier Functions**|Nikolaos Bousias et.al.|[2506.07755](http://arxiv.org/abs/2506.07755)|null|
+|**2025-06-09**|**RSafe: Incentivizing proactive reasoning to build robust and adaptive LLM safeguards**|Jingnan Zheng et.al.|[2506.07736](http://arxiv.org/abs/2506.07736)|null|
+|**2025-06-09**|**A Communication-Latency-Aware Co-Simulation Platform for Safety and Comfort Evaluation of Cloud-Controlled ICVs**|Yongqi Zhao et.al.|[2506.07696](http://arxiv.org/abs/2506.07696)|null|
+|**2025-06-09**|**Evaluating LLMs Robustness in Less Resourced Languages with Proxy Models**|Maciej Chrabąszcz et.al.|[2506.07645](http://arxiv.org/abs/2506.07645)|null|
+|**2025-06-09**|**TwinBreak: Jailbreaking LLM Security Alignments based on Twin Prompts**|Torsten Krauß et.al.|[2506.07596](http://arxiv.org/abs/2506.07596)|null|
 |**2025-06-04**|**Pseudo-Simulation for Autonomous Driving**|Wei Cao et.al.|[2506.04218](http://arxiv.org/abs/2506.04218)|null|
 |**2025-06-04**|**SLAC: Simulation-Pretrained Latent Action Space for Whole-Body Real-World RL**|Jiaheng Hu et.al.|[2506.04147](http://arxiv.org/abs/2506.04147)|null|
 |**2025-06-05**|**macOSWorld: A Multilingual Interactive Benchmark for GUI Agents**|Pei Yang et.al.|[2506.04135](http://arxiv.org/abs/2506.04135)|null|
@@ -274,6 +284,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-09**|**Microscopic Mechanism of Anyon Superconductivity Emerging from Fractional Chern Insulators**|Fabian Pichler et.al.|[2506.08000](http://arxiv.org/abs/2506.08000)|null|
+|**2025-06-09**|**Rethinking Crowd-Sourced Evaluation of Neuron Explanations**|Tuomas Oikarinen et.al.|[2506.07985](http://arxiv.org/abs/2506.07985)|null|
+|**2025-06-09**|**Not so dark, not so dense: an alternative explanation for the lensing subhalo in SDSSJ0946+1006**|Qiuhan He et.al.|[2506.07978](http://arxiv.org/abs/2506.07978)|null|
+|**2025-06-09**|**A circularly polarized low-frequency radio burst from the exoplanetary system HD 189733**|X. Zhang et.al.|[2506.07912](http://arxiv.org/abs/2506.07912)|null|
+|**2025-06-09**|**Evaluating explainable AI for deep learning-based network intrusion detection system alert classification**|Rajesh Kalakoti et.al.|[2506.07882](http://arxiv.org/abs/2506.07882)|null|
+|**2025-06-09**|**Training Superior Sparse Autoencoders for Instruct Models**|Jiaming Li et.al.|[2506.07691](http://arxiv.org/abs/2506.07691)|null|
+|**2025-06-09**|**The Universality Lens: Why Even Highly Over-Parametrized Models Learn Well**|Meir Feder et.al.|[2506.07661](http://arxiv.org/abs/2506.07661)|null|
+|**2025-06-09**|**Towards Large Language Models with Self-Consistent Natural Language Explanations**|Sahar Admoni et.al.|[2506.07523](http://arxiv.org/abs/2506.07523)|null|
+|**2025-06-09**|**Explainable AI for Enhancing IDS Against Advanced Persistent Kill Chain**|Bassam Noori Shaker et.al.|[2506.07480](http://arxiv.org/abs/2506.07480)|null|
+|**2025-06-09**|**Shapley-Coop: Credit Assignment for Emergent Cooperation in Self-Interested LLM Agents**|Yun Hua et.al.|[2506.07388](http://arxiv.org/abs/2506.07388)|null|
 |**2025-06-04**|**TracLLM: A Generic Framework for Attributing Long Context LLMs**|Yanting Wang et.al.|[2506.04202](http://arxiv.org/abs/2506.04202)|null|
 |**2025-06-04**|**Person Re-Identification System at Semantic Level based on Pedestrian Attributes Ontology**|Ngoc Q. Ly et.al.|[2506.04143](http://arxiv.org/abs/2506.04143)|null|
 |**2025-06-04**|**Crowd-SFT: Crowdsourcing for LLM Alignment**|Alex Sotiropoulos et.al.|[2506.04063](http://arxiv.org/abs/2506.04063)|null|
