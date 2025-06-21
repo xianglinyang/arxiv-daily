@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2025.06.16
+## Updated on 2025.06.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Safety
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-18**|**Leaky Thoughts: Large Reasoning Models Are Not Private Thinkers**|Tommaso Green et.al.|[2506.15674](http://arxiv.org/abs/2506.15674)|**[link](https://github.com/parameterlab/leaky_thoughts)**|
+|**2025-06-18**|**deepSURF: Detecting Memory Safety Vulnerabilities in Rust Through Fuzzing LLM-Augmented Harnesses**|Georgios Androutsopoulos et.al.|[2506.15648](http://arxiv.org/abs/2506.15648)|null|
+|**2025-06-18**|**LoX: Low-Rank Extrapolation Robustifies LLM Safety Against Fine-tuning**|Gabrel J. Perin et.al.|[2506.15606](http://arxiv.org/abs/2506.15606)|null|
+|**2025-06-18**|**RePCS: Diagnosing Data Memorization in LLM-Powered Retrieval-Augmented Generation**|Le Vu Anh et.al.|[2506.15513](http://arxiv.org/abs/2506.15513)|null|
+|**2025-06-18**|**Golden Partition Zone: Rethinking Neural Network Partitioning Under Inversion Threats in Collaborative Inference**|Rongke Liu et.al.|[2506.15412](http://arxiv.org/abs/2506.15412)|null|
+|**2025-06-18**|**Offensive Robot Cybersecurity**|Víctor Mayoral-Vilches et.al.|[2506.15343](http://arxiv.org/abs/2506.15343)|null|
+|**2025-06-18**|**Designing Intent: A Multimodal Framework for Human-Robot Cooperation in Industrial Workspaces**|Francesco Chiossi et.al.|[2506.15293](http://arxiv.org/abs/2506.15293)|null|
+|**2025-06-18**|**AI-driven visual monitoring of industrial assembly tasks**|Mattia Nardon et.al.|[2506.15285](http://arxiv.org/abs/2506.15285)|null|
+|**2025-06-18**|**Privacy-Shielded Image Compression: Defending Against Exploitation from Vision-Language Pretrained Models**|Xuelin Shen et.al.|[2506.15201](http://arxiv.org/abs/2506.15201)|null|
+|**2025-06-18**|**From LLMs to MLLMs to Agents: A Survey of Emerging Paradigms in Jailbreak Attacks and Defenses within LLM Ecosystem**|Yanxu Mao et.al.|[2506.15170](http://arxiv.org/abs/2506.15170)|null|
 |**2025-06-12**|**How Well Can Reasoning Models Identify and Recover from Unhelpful Thoughts?**|Sohee Yang et.al.|[2506.10979](http://arxiv.org/abs/2506.10979)|null|
 |**2025-06-12**|**Build the web for agents, not agents for the web**|Xing Han Lù et.al.|[2506.10953](http://arxiv.org/abs/2506.10953)|null|
 |**2025-06-12**|**Monitoring Decomposition Attacks in LLMs with Lightweight Sequential Monitors**|Chen Yueh-Han et.al.|[2506.10949](http://arxiv.org/abs/2506.10949)|**[link](https://github.com/yuehhanchen/monitoring-decomposition-attack)**|
@@ -294,6 +304,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-18**|**Dense SAE Latents Are Features, Not Bugs**|Xiaoqing Sun et.al.|[2506.15679](http://arxiv.org/abs/2506.15679)|null|
+|**2025-06-18**|**Optimizing Web-Based AI Query Retrieval with GPT Integration in LangChain A CoT-Enhanced Prompt Engineering Approach**|Wenqi Guan et.al.|[2506.15512](http://arxiv.org/abs/2506.15512)|null|
+|**2025-06-18**|**Pixel-level Certified Explanations via Randomized Smoothing**|Alaa Anani et.al.|[2506.15499](http://arxiv.org/abs/2506.15499)|null|
+|**2025-06-18**|**Unifying VXAI: A Systematic Review and Framework for the Evaluation of Explainable AI**|David Dembinsky et.al.|[2506.15408](http://arxiv.org/abs/2506.15408)|null|
+|**2025-06-18**|**Performative Validity of Recourse Explanations**|Gunnar König et.al.|[2506.15366](http://arxiv.org/abs/2506.15366)|null|
+|**2025-06-18**|**Data Verbalisation: What is Text Doing in a Data Visualisation?**|Paul Murrell et.al.|[2506.15129](http://arxiv.org/abs/2506.15129)|null|
+|**2025-06-18**|**CWGAN-GP Augmented CAE for Jamming Detection in 5G-NR in Non-IID Datasets**|Samhita Kuili et.al.|[2506.15075](http://arxiv.org/abs/2506.15075)|null|
+|**2025-06-17**|**An Observation on Lloyd's k-Means Algorithm in High Dimensions**|David Silva-Sánchez et.al.|[2506.14952](http://arxiv.org/abs/2506.14952)|null|
+|**2025-06-17**|**Explain First, Trust Later: LLM-Augmented Explanations for Graph-Based Crypto Anomaly Detection**|Adriana Watson et.al.|[2506.14933](http://arxiv.org/abs/2506.14933)|null|
+|**2025-06-17**|**Detection of pure warm-hot intergalactic medium emission from a $7.2$ Mpc long filament in the Shapley supercluster using X-ray spectroscopy**|Konstantinos Migkas et.al.|[2506.14917](http://arxiv.org/abs/2506.14917)|null|
 |**2025-06-12**|**GUARD: Guided Unlearning and Retention via Data Attribution for Large Language Models**|Evelyn Ma et.al.|[2506.10946](http://arxiv.org/abs/2506.10946)|null|
 |**2025-06-12**|**Decomposing MLP Activations into Interpretable Features via Semi-Nonnegative Matrix Factorization**|Or Shafran et.al.|[2506.10920](http://arxiv.org/abs/2506.10920)|null|
 |**2025-06-12**|**Modeling Trust Dynamics in Robot-Assisted Delivery: Impact of Trust Repair Strategies**|Dong Hae Mangalindan et.al.|[2506.10884](http://arxiv.org/abs/2506.10884)|null|
