@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2025.06.21
+## Updated on 2025.06.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Safety
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-24**|**Persona Features Control Emergent Misalignment**|Miles Wang et.al.|[2506.19823](http://arxiv.org/abs/2506.19823)|null|
+|**2025-06-25**|**Optimization Studies of Radiation Shielding for the PIP-II Project at Fermilab**|Alajos Makovec et.al.|[2506.19763](http://arxiv.org/abs/2506.19763)|null|
+|**2025-06-24**|**Formalization and security analysis of the Bridgeless protocol**|Orestis Alpos et.al.|[2506.19730](http://arxiv.org/abs/2506.19730)|null|
+|**2025-06-24**|**A Survey of LLM-Driven AI Agent Communication: Protocols, Security Risks, and Defense Countermeasures**|Dezhang Kong et.al.|[2506.19676](http://arxiv.org/abs/2506.19676)|null|
+|**2025-06-24**|**Resilience assessment framework for cyber-physical distribution power system based on coordinated cyber-physical attacks under dynamic game**|Yulin Liu et.al.|[2506.19636](http://arxiv.org/abs/2506.19636)|null|
+|**2025-06-24**|**A Verification Methodology for Safety Assurance of Robotic Autonomous Systems**|Mustafa Adam et.al.|[2506.19622](http://arxiv.org/abs/2506.19622)|null|
+|**2025-06-24**|**Probabilistic modelling and safety assurance of an agriculture robot providing light-treatment**|Mustafa Adam et.al.|[2506.19620](http://arxiv.org/abs/2506.19620)|null|
+|**2025-06-24**|**PrivacyXray: Detecting Privacy Breaches in LLMs through Semantic Consistency and Probability Certainty**|Jinwen He et.al.|[2506.19563](http://arxiv.org/abs/2506.19563)|null|
+|**2025-06-24**|**A Spline-Based Stress Function Approach for the Principle of Minimum Complementary Energy**|Fabian Key et.al.|[2506.19534](http://arxiv.org/abs/2506.19534)|null|
+|**2025-06-24**|**Automatic Posology Structuration : What role for LLMs?**|Natalia Bobkova et.al.|[2506.19525](http://arxiv.org/abs/2506.19525)|null|
 |**2025-06-18**|**Leaky Thoughts: Large Reasoning Models Are Not Private Thinkers**|Tommaso Green et.al.|[2506.15674](http://arxiv.org/abs/2506.15674)|**[link](https://github.com/parameterlab/leaky_thoughts)**|
 |**2025-06-18**|**deepSURF: Detecting Memory Safety Vulnerabilities in Rust Through Fuzzing LLM-Augmented Harnesses**|Georgios Androutsopoulos et.al.|[2506.15648](http://arxiv.org/abs/2506.15648)|null|
 |**2025-06-18**|**LoX: Low-Rank Extrapolation Robustifies LLM Safety Against Fine-tuning**|Gabrel J. Perin et.al.|[2506.15606](http://arxiv.org/abs/2506.15606)|null|
@@ -304,6 +314,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-24**|**Persona Features Control Emergent Misalignment**|Miles Wang et.al.|[2506.19823](http://arxiv.org/abs/2506.19823)|null|
+|**2025-06-25**|**One Prototype Is Enough: Single-Prototype Activation for Interpretable Image Classification**|Yitao Peng et.al.|[2506.19808](http://arxiv.org/abs/2506.19808)|null|
+|**2025-06-24**|**Who Does What in Deep Learning? Multidimensional Game-Theoretic Attribution of Function of Neural Units**|Shrey Dixit et.al.|[2506.19732](http://arxiv.org/abs/2506.19732)|null|
+|**2025-06-24**|**Uncovering Conceptual Blindspots in Generative Image Models Using Sparse Autoencoders**|Matyas Bohacek et.al.|[2506.19708](http://arxiv.org/abs/2506.19708)|null|
+|**2025-06-24**|**Semantic Scene Graph for Ultrasound Image Explanation and Scanning Guidance**|Xuesong Li et.al.|[2506.19683](http://arxiv.org/abs/2506.19683)|null|
+|**2025-06-24**|**Model Guidance via Robust Feature Attribution**|Mihnea Ghitu et.al.|[2506.19680](http://arxiv.org/abs/2506.19680)|null|
+|**2025-06-24**|**Why Uncertainty Calibration Matters for Reliable Perturbation-based Explanations**|Thomas Decker et.al.|[2506.19630](http://arxiv.org/abs/2506.19630)|null|
+|**2025-06-24**|**Interpretable Hybrid Machine Learning Models Using FOLD-R++ and Answer Set Programming**|Sanne Wielinga et.al.|[2506.19573](http://arxiv.org/abs/2506.19573)|null|
+|**2025-06-24**|**RCStat: A Statistical Framework for using Relative Contextualization in Transformers**|Debabrata Mahapatra et.al.|[2506.19549](http://arxiv.org/abs/2506.19549)|null|
+|**2025-06-24**|**Is Long-to-Short a Free Lunch? Investigating Inconsistency and Reasoning Efficiency in LRMs**|Shu Yang et.al.|[2506.19492](http://arxiv.org/abs/2506.19492)|null|
 |**2025-06-18**|**Dense SAE Latents Are Features, Not Bugs**|Xiaoqing Sun et.al.|[2506.15679](http://arxiv.org/abs/2506.15679)|null|
 |**2025-06-18**|**Optimizing Web-Based AI Query Retrieval with GPT Integration in LangChain A CoT-Enhanced Prompt Engineering Approach**|Wenqi Guan et.al.|[2506.15512](http://arxiv.org/abs/2506.15512)|null|
 |**2025-06-18**|**Pixel-level Certified Explanations via Randomized Smoothing**|Alaa Anani et.al.|[2506.15499](http://arxiv.org/abs/2506.15499)|null|
