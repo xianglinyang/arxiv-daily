@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2025.06.26
+## Updated on 2025.07.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Safety
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-27**|**ARMOR: Robust Reinforcement Learning-based Control for UAVs under Physical Attacks**|Pritam Dash et.al.|[2506.22423](http://arxiv.org/abs/2506.22423)|null|
+|**2025-06-27**|**Under the Hood of BlotchyQuasar: DLL-Based RAT Campaigns Against Latin America**|Alessio Di Santo et.al.|[2506.22323](http://arxiv.org/abs/2506.22323)|null|
+|**2025-06-27**|**V2X Intention Sharing for Cooperative Electrically Power-Assisted Cycles**|Felipe Valle Quiroz et.al.|[2506.22223](http://arxiv.org/abs/2506.22223)|null|
+|**2025-06-27**|**A Different Approach to AI Safety: Proceedings from the Columbia Convening on Openness in Artificial Intelligence and AI Safety**|Camille François et.al.|[2506.22183](http://arxiv.org/abs/2506.22183)|null|
+|**2025-06-27**|**ASVSim (AirSim for Surface Vehicles): A High-Fidelity Simulation Framework for Autonomous Surface Vehicle Research**|Bavo Lesy et.al.|[2506.22174](http://arxiv.org/abs/2506.22174)|null|
+|**2025-06-27**|**Learning Distributed Safe Multi-Agent Navigation via Infinite-Horizon Optimal Graph Control**|Fenglan Wang et.al.|[2506.22117](http://arxiv.org/abs/2506.22117)|null|
+|**2025-06-27**|**Pedestrian Intention and Trajectory Prediction in Unstructured Traffic Using IDD-PeD**|Ruthvik Bokkasam et.al.|[2506.22111](http://arxiv.org/abs/2506.22111)|null|
+|**2025-06-27**|**Query as Test: An Intelligent Driving Test and Data Storage Method for Integrated Cockpit-Vehicle-Road Scenarios**|Shengyue Yao et.al.|[2506.22068](http://arxiv.org/abs/2506.22068)|null|
+|**2025-06-27**|**Building Trustworthy Cognitive Monitoring for Safety-Critical Human Tasks: A Phased Methodological Approach**|Maciej Grzeszczuk et.al.|[2506.22066](http://arxiv.org/abs/2506.22066)|null|
+|**2025-06-27**|**Evaluating Redundancy Mitigation in Vulnerable Road User Awareness Messages for Bicycles**|Nico Ostendorf et.al.|[2506.22052](http://arxiv.org/abs/2506.22052)|null|
 |**2025-06-24**|**Persona Features Control Emergent Misalignment**|Miles Wang et.al.|[2506.19823](http://arxiv.org/abs/2506.19823)|null|
 |**2025-06-25**|**Optimization Studies of Radiation Shielding for the PIP-II Project at Fermilab**|Alajos Makovec et.al.|[2506.19763](http://arxiv.org/abs/2506.19763)|null|
 |**2025-06-24**|**Formalization and security analysis of the Bridgeless protocol**|Orestis Alpos et.al.|[2506.19730](http://arxiv.org/abs/2506.19730)|null|
@@ -314,6 +324,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-27**|**What Makes ChatGPT Effective for Software Issue Resolution? An Empirical Study of Developer-ChatGPT Conversations in GitHub**|Ramtin Ehsani et.al.|[2506.22390](http://arxiv.org/abs/2506.22390)|null|
+|**2025-06-27**|**Atomic Dirac energy-level dynamics and redshift in the 4xU(1) gravity gauge field**|Mikko Partanen et.al.|[2506.22057](http://arxiv.org/abs/2506.22057)|null|
+|**2025-06-27**|**Simulated Intervention on Cross-Sectional Nested Data: Development of a Multilevel NIRA Approach**|Yiming Wu et.al.|[2506.21991](http://arxiv.org/abs/2506.21991)|null|
+|**2025-06-27**|**Single-Trajectory Bayesian Modeling Reveals Multi-State Diffusion of the MSH Sliding Clamp**|Seongyu Park et.al.|[2506.21943](http://arxiv.org/abs/2506.21943)|null|
+|**2025-06-27**|**RiverEcho: Real-Time Interactive Digital System for Ancient Yellow River Culture**|Haofeng Wang et.al.|[2506.21865](http://arxiv.org/abs/2506.21865)|null|
+|**2025-06-26**|**Towards Transparent AI: A Survey on Explainable Large Language Models**|Avash Palikhe et.al.|[2506.21812](http://arxiv.org/abs/2506.21812)|null|
+|**2025-06-26**|**Estimating Average Causal Effects with Incomplete Exposure and Confounders**|Lan Wen et.al.|[2506.21786](http://arxiv.org/abs/2506.21786)|null|
+|**2025-06-26**|**Unveiling the Electronic Origin of Anomalous Contact Conductance in Twisted Bilayer Graphene**|Kevin J. U. Vidarte et.al.|[2506.21721](http://arxiv.org/abs/2506.21721)|null|
+|**2025-06-26**|**A joint explanation for the soft lepton and monojet LHC excesses in the wino-bino model**|Diyar Agin et.al.|[2506.21676](http://arxiv.org/abs/2506.21676)|null|
+|**2025-06-26**|**REBELS-MOSFIRE: Weak CIII] Emission is Typical Among Extremely UV-bright, Massive Galaxies at $z\sim7$**|Ryan Endsley et.al.|[2506.21674](http://arxiv.org/abs/2506.21674)|null|
 |**2025-06-24**|**Persona Features Control Emergent Misalignment**|Miles Wang et.al.|[2506.19823](http://arxiv.org/abs/2506.19823)|null|
 |**2025-06-25**|**One Prototype Is Enough: Single-Prototype Activation for Interpretable Image Classification**|Yitao Peng et.al.|[2506.19808](http://arxiv.org/abs/2506.19808)|null|
 |**2025-06-24**|**Who Does What in Deep Learning? Multidimensional Game-Theoretic Attribution of Function of Neural Units**|Shrey Dixit et.al.|[2506.19732](http://arxiv.org/abs/2506.19732)|null|
