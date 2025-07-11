@@ -1,4 +1,4 @@
-## Updated on 2025.07.06
+## Updated on 2025.07.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-09**|**The Post Science Paradigm of Scientific Discovery in the Era of Artificial Intelligence: Modelling the Collapse of Ideation Costs, Epistemic Inversion, and the End of Knowledge Scarcity**|Christian William Callaghan et.al.|[2507.07019](http://arxiv.org/abs/2507.07019)|null|
+|**2025-07-09**|**When Context Is Not Enough: Modeling Unexplained Variability in Car-Following Behavior**|Chengyuan Zhang et.al.|[2507.07012](http://arxiv.org/abs/2507.07012)|null|
+|**2025-07-09**|**Dataset and Benchmark for Enhancing Critical Retained Foreign Object Detection**|Yuli Wang et.al.|[2507.06937](http://arxiv.org/abs/2507.06937)|null|
+|**2025-07-09**|**Robust and Safe Traffic Sign Recognition using N-version with Weighted Voting**|Linyun Gao et.al.|[2507.06907](http://arxiv.org/abs/2507.06907)|null|
+|**2025-07-09**|**Developing and Maintaining an Open-Source Repository of AI Evaluations: Challenges and Insights**|Alexandra Abbas et.al.|[2507.06893](http://arxiv.org/abs/2507.06893)|null|
+|**2025-07-09**|**IAP: Invisible Adversarial Patch Attack through Perceptibility-Aware Localization and Perturbation Optimization**|Subrat Kishore Dutta et.al.|[2507.06856](http://arxiv.org/abs/2507.06856)|null|
+|**2025-07-09**|**Stream Function-Based Navigation for Complex Quadcopter Obstacle Avoidance**|Sean Smith et.al.|[2507.06787](http://arxiv.org/abs/2507.06787)|null|
+|**2025-07-09**|**Integrating Perceptions: A Human-Centered Physical Safety Model for Human-Robot Interaction**|Pranav Pandey et.al.|[2507.06700](http://arxiv.org/abs/2507.06700)|null|
+|**2025-07-09**|**Google Search Advertising after Dobbs v. Jackson**|Yelena Mejova et.al.|[2507.06640](http://arxiv.org/abs/2507.06640)|null|
+|**2025-07-09**|**Stacked Intelligent Metasurfaces-Aided eVTOL Delay Sensitive Communications**|Liyuan Chen et.al.|[2507.06632](http://arxiv.org/abs/2507.06632)|null|
 |**2025-07-03**|**Visual Contextual Attack: Jailbreaking MLLMs with Image-Driven Context Injection**|Ziqi Miao et.al.|[2507.02844](http://arxiv.org/abs/2507.02844)|null|
 |**2025-07-03**|**USAD: An Unsupervised Data Augmentation Spatio-Temporal Attention Diffusion Network**|Ying Yu et.al.|[2507.02827](http://arxiv.org/abs/2507.02827)|null|
 |**2025-07-03**|**Is Reasoning All You Need? Probing Bias in the Age of Reasoning Language Models**|Riccardo Cantini et.al.|[2507.02799](http://arxiv.org/abs/2507.02799)|null|
@@ -334,12 +344,22 @@
 |**2025-02-17**|**ReVeil: Unconstrained Concealed Backdoor Attack on Deep Neural Networks using Machine Unlearning**|Manaar Alam et.al.|[2502.11687](http://arxiv.org/abs/2502.11687)|null|
 |**2025-02-17**|**RIDE: Enhancing Large Language Model Alignment through Restyled In-Context Learning Demonstration Exemplars**|Yuncheng Hua et.al.|[2502.11681](http://arxiv.org/abs/2502.11681)|null|
 
-<p align=right>(<a href=#updated-on-20250706>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250711>back to top</a>)</p>
 
 ## Interpretability
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-09**|**Solving boundary time crystals via the superspin method**|Dominik Nemeth et.al.|[2507.06998](http://arxiv.org/abs/2507.06998)|null|
+|**2025-07-09**|**Hidden-Heavy Pentaquarks and Where to Find Them**|Fareed Alasiri et.al.|[2507.06991](http://arxiv.org/abs/2507.06991)|null|
+|**2025-07-09**|**Mutual Information Free Topological Generalization Bounds via Stability**|Mario Tuci et.al.|[2507.06775](http://arxiv.org/abs/2507.06775)|null|
+|**2025-07-09**|**PotentRegion4MalDetect: Advanced Features from Potential Malicious Regions for Malware Detection**|Rama Krishna Koppanati et.al.|[2507.06723](http://arxiv.org/abs/2507.06723)|null|
+|**2025-07-09**|**TNO colours provide new evidence for a past close flyby of another star to the Solar System**|Susanne Pfalzner et.al.|[2507.06693](http://arxiv.org/abs/2507.06693)|null|
+|**2025-07-09**|**Concept-TRAK: Understanding how diffusion models learn concepts through concept-level attribution**|Yonghyun Park et.al.|[2507.06547](http://arxiv.org/abs/2507.06547)|null|
+|**2025-07-08**|**Automated Neuron Labelling Enables Generative Steering and Interpretability in Protein Language Models**|Arjun Banerjee et.al.|[2507.06458](http://arxiv.org/abs/2507.06458)|null|
+|**2025-07-08**|**Hot Phonon Bottlenecks and the Role of Non-Equilibrium Acoustic Phonons in III-V Multi-Quantum Well Systems**|Izak Baranowski et.al.|[2507.06455](http://arxiv.org/abs/2507.06455)|null|
+|**2025-07-08**|**Exploring Task Performance with Interpretable Models via Sparse Auto-Encoders**|Shun Wang et.al.|[2507.06427](http://arxiv.org/abs/2507.06427)|null|
+|**2025-07-10**|**Trial Length, Pricing, and Rationally Inattentive Customers**|F. Nguyen et.al.|[2507.06422](http://arxiv.org/abs/2507.06422)|null|
 |**2025-07-03**|**ExPO: Unlocking Hard Reasoning with Self-Explanation-Guided Reinforcement Learning**|Ruiyang Zhou et.al.|[2507.02834](http://arxiv.org/abs/2507.02834)|null|
 |**2025-07-03**|**Measurement of the Granularity of Vowel Production Space By Just Producible Different (JPD) Limens**|Peter Viechnicki et.al.|[2507.02744](http://arxiv.org/abs/2507.02744)|null|
 |**2025-07-03**|**AIGI-Holmes: Towards Explainable and Generalizable AI-Generated Image Detection via Multimodal Large Language Models**|Ziyin Zhou et.al.|[2507.02664](http://arxiv.org/abs/2507.02664)|null|
@@ -661,7 +681,7 @@
 |**2025-02-14**|**Mechanistic Unveiling of Transformer Circuits: Self-Influence as a Key to Model Reasoning**|Lin Zhang et.al.|[2502.09022](http://arxiv.org/abs/2502.09022)|null|
 |**2025-02-13**|**Integrated Optimization and Game Theory Framework for Fair Cost Allocation in Community Microgrids**|K. Victor Sam Moses Babu et.al.|[2502.08953](http://arxiv.org/abs/2502.08953)|null|
 
-<p align=right>(<a href=#updated-on-20250706>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250711>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
