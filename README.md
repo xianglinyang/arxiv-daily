@@ -1,4 +1,4 @@
-## Updated on 2025.07.11
+## Updated on 2025.07.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-14**|**BURN: Backdoor Unlearning via Adversarial Boundary Analysis**|Yanghao Su et.al.|[2507.10491](http://arxiv.org/abs/2507.10491)|null|
+|**2025-07-14**|**Can You Detect the Difference?**|İsmail Tarım et.al.|[2507.10475](http://arxiv.org/abs/2507.10475)|null|
+|**2025-07-14**|**Bridging Robustness and Generalization Against Word Substitution Attacks in NLP via the Growth Bound Matrix Approach**|Mohammed Bouri et.al.|[2507.10330](http://arxiv.org/abs/2507.10330)|null|
+|**2025-07-14**|**Toolsuite for Implementing Multiagent Systems Based on Communication Protocols**|Amit K. Chopra et.al.|[2507.10324](http://arxiv.org/abs/2507.10324)|null|
+|**2025-07-14**|**A Grounded Theory on the Teacher and Student Roles in Pair Programming**|Linus Ververs et.al.|[2507.10305](http://arxiv.org/abs/2507.10305)|null|
+|**2025-07-14**|**Multi-Robot Cooperative Herding through Backstepping Control Barrier Functions**|Kang Li et.al.|[2507.10249](http://arxiv.org/abs/2507.10249)|null|
+|**2025-07-14**|**HASSLE: A Self-Supervised Learning Enhanced Hijacking Attack on Vertical Federated Learning**|Weiyang He et.al.|[2507.10162](http://arxiv.org/abs/2507.10162)|null|
+|**2025-07-14**|**FRSICL: LLM-Enabled In-Context Learning Flight Resource Allocation for Fresh Data Collection in UAV-Assisted Wildfire Monitoring**|Yousef Emami et.al.|[2507.10134](http://arxiv.org/abs/2507.10134)|null|
+|**2025-07-14**|**BlueGlass: A Framework for Composite AI Safety**|Harshal Nandigramwar et.al.|[2507.10106](http://arxiv.org/abs/2507.10106)|null|
+|**2025-07-14**|**Foundation Model Driven Robotics: A Comprehensive Review**|Muhammad Tayyab Khan et.al.|[2507.10087](http://arxiv.org/abs/2507.10087)|null|
 |**2025-07-09**|**The Post Science Paradigm of Scientific Discovery in the Era of Artificial Intelligence: Modelling the Collapse of Ideation Costs, Epistemic Inversion, and the End of Knowledge Scarcity**|Christian William Callaghan et.al.|[2507.07019](http://arxiv.org/abs/2507.07019)|null|
 |**2025-07-09**|**When Context Is Not Enough: Modeling Unexplained Variability in Car-Following Behavior**|Chengyuan Zhang et.al.|[2507.07012](http://arxiv.org/abs/2507.07012)|null|
 |**2025-07-09**|**Dataset and Benchmark for Enhancing Critical Retained Foreign Object Detection**|Yuli Wang et.al.|[2507.06937](http://arxiv.org/abs/2507.06937)|null|
@@ -344,12 +354,22 @@
 |**2025-02-17**|**ReVeil: Unconstrained Concealed Backdoor Attack on Deep Neural Networks using Machine Unlearning**|Manaar Alam et.al.|[2502.11687](http://arxiv.org/abs/2502.11687)|null|
 |**2025-02-17**|**RIDE: Enhancing Large Language Model Alignment through Restyled In-Context Learning Demonstration Exemplars**|Yuncheng Hua et.al.|[2502.11681](http://arxiv.org/abs/2502.11681)|null|
 
-<p align=right>(<a href=#updated-on-20250711>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
 
 ## Interpretability
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-14**|**Balancing the Last Birth: A Game-Theoretical Resolution to the Human Sex Ratio Puzzle**|Nahyeon Lee et.al.|[2507.10332](http://arxiv.org/abs/2507.10332)|null|
+|**2025-07-14**|**Pinching-Antenna Systems for Physical Layer Security**|Kaidi Wang et.al.|[2507.10167](http://arxiv.org/abs/2507.10167)|null|
+|**2025-07-14**|**Simulating Biases for Interpretable Fairness in Offline and Online Classifiers**|Ricardo Inácio et.al.|[2507.10154](http://arxiv.org/abs/2507.10154)|null|
+|**2025-07-14**|**BlueGlass: A Framework for Composite AI Safety**|Harshal Nandigramwar et.al.|[2507.10106](http://arxiv.org/abs/2507.10106)|null|
+|**2025-07-14**|**LayLens: Improving Deepfake Understanding through Simplified Explanations**|Abhijeet Narang et.al.|[2507.10066](http://arxiv.org/abs/2507.10066)|null|
+|**2025-07-14**|**MEDebiaser: A Human-AI Feedback System for Mitigating Bias in Multi-label Medical Image Classification**|Shaohan Shi et.al.|[2507.10044](http://arxiv.org/abs/2507.10044)|null|
+|**2025-07-14**|**Supernova-induced binary-interaction-powered supernovae: a model for SN2022jli**|Ryosuke Hirai et.al.|[2507.09974](http://arxiv.org/abs/2507.09974)|null|
+|**2025-07-14**|**Counterfactual Visual Explanation via Causally-Guided Adversarial Steering**|Yiran Qiao et.al.|[2507.09881](http://arxiv.org/abs/2507.09881)|null|
+|**2025-07-14**|**Emerging kinetic-exchange for the enhanced metallic ferromagnetism in CrGeTe $_3$ under pressure**|Jiaming Liu et.al.|[2507.09877](http://arxiv.org/abs/2507.09877)|null|
+|**2025-07-13**|**Frank-Wolfe Recursions for the Emergency Response Problem on Measure Spaces**|Di Yu et.al.|[2507.09808](http://arxiv.org/abs/2507.09808)|null|
 |**2025-07-09**|**Solving boundary time crystals via the superspin method**|Dominik Nemeth et.al.|[2507.06998](http://arxiv.org/abs/2507.06998)|null|
 |**2025-07-09**|**Hidden-Heavy Pentaquarks and Where to Find Them**|Fareed Alasiri et.al.|[2507.06991](http://arxiv.org/abs/2507.06991)|null|
 |**2025-07-09**|**Mutual Information Free Topological Generalization Bounds via Stability**|Mario Tuci et.al.|[2507.06775](http://arxiv.org/abs/2507.06775)|null|
@@ -681,7 +701,7 @@
 |**2025-02-14**|**Mechanistic Unveiling of Transformer Circuits: Self-Influence as a Key to Model Reasoning**|Lin Zhang et.al.|[2502.09022](http://arxiv.org/abs/2502.09022)|null|
 |**2025-02-13**|**Integrated Optimization and Game Theory Framework for Fair Cost Allocation in Community Microgrids**|K. Victor Sam Moses Babu et.al.|[2502.08953](http://arxiv.org/abs/2502.08953)|null|
 
-<p align=right>(<a href=#updated-on-20250711>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
