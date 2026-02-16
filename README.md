@@ -1,4 +1,4 @@
-## Updated on 2026.02.11
+## Updated on 2026.02.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -364,7 +364,7 @@
 |**2025-02-17**|**ReVeil: Unconstrained Concealed Backdoor Attack on Deep Neural Networks using Machine Unlearning**|Manaar Alam et.al.|[2502.11687](http://arxiv.org/abs/2502.11687)|null|
 |**2025-02-17**|**RIDE: Enhancing Large Language Model Alignment through Restyled In-Context Learning Demonstration Exemplars**|Yuncheng Hua et.al.|[2502.11681](http://arxiv.org/abs/2502.11681)|null|
 
-<p align=right>(<a href=#updated-on-20260211>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260216>back to top</a>)</p>
 
 ## Interpretability
 
@@ -721,7 +721,7 @@
 |**2025-02-14**|**Mechanistic Unveiling of Transformer Circuits: Self-Influence as a Key to Model Reasoning**|Lin Zhang et.al.|[2502.09022](http://arxiv.org/abs/2502.09022)|null|
 |**2025-02-13**|**Integrated Optimization and Game Theory Framework for Fair Cost Allocation in Community Microgrids**|K. Victor Sam Moses Babu et.al.|[2502.08953](http://arxiv.org/abs/2502.08953)|null|
 
-<p align=right>(<a href=#updated-on-20260211>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260216>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
